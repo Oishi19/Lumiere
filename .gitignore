@@ -1,9 +1,0 @@
-__pycache__
-.vscode
-models/
-*.bin
-main.dist
-main.build
-main.onefile-build
-.vs/
-test/
