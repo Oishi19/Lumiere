@@ -1,0 +1,3718 @@
+[
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "nn",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn.functional",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn.functional",
+        "description": "torch.nn.functional",
+        "detail": "torch.nn.functional",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "typing",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "typing",
+        "description": "typing",
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageEnhance",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageFilter",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageFilter",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageDraw",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageDraw",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageFont",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "estimate_alpha_cf",
+        "importPath": "pymatting.alpha.estimate_alpha_cf",
+        "description": "pymatting.alpha.estimate_alpha_cf",
+        "isExtraImport": true,
+        "detail": "pymatting.alpha.estimate_alpha_cf",
+        "documentation": {}
+    },
+    {
+        "label": "estimate_foreground_ml",
+        "importPath": "pymatting.foreground.estimate_foreground_ml",
+        "description": "pymatting.foreground.estimate_foreground_ml",
+        "isExtraImport": true,
+        "detail": "pymatting.foreground.estimate_foreground_ml",
+        "documentation": {}
+    },
+    {
+        "label": "stack_images",
+        "importPath": "pymatting.util.util",
+        "description": "pymatting.util.util",
+        "isExtraImport": true,
+        "detail": "pymatting.util.util",
+        "documentation": {}
+    },
+    {
+        "label": "binary_erosion",
+        "importPath": "scipy.ndimage.morphology",
+        "description": "scipy.ndimage.morphology",
+        "isExtraImport": true,
+        "detail": "scipy.ndimage.morphology",
+        "documentation": {}
+    },
+    {
+        "label": "moviepy.editor",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "moviepy.editor",
+        "description": "moviepy.editor",
+        "detail": "moviepy.editor",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "BackgroundRemovalDetect,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "BackgroundRemovalDetect.",
+        "description": "BackgroundRemovalDetect.",
+        "detail": "BackgroundRemovalDetect.",
+        "documentation": {}
+    },
+    {
+        "label": "division",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "print_function",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "print_function",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "color",
+        "importPath": "skimage",
+        "description": "skimage",
+        "isExtraImport": true,
+        "detail": "skimage",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "importPath": "skimage",
+        "description": "skimage",
+        "isExtraImport": true,
+        "detail": "skimage",
+        "documentation": {}
+    },
+    {
+        "label": "transform",
+        "importPath": "skimage",
+        "description": "skimage",
+        "isExtraImport": true,
+        "detail": "skimage",
+        "documentation": {}
+    },
+    {
+        "label": "color",
+        "importPath": "skimage",
+        "description": "skimage",
+        "isExtraImport": true,
+        "detail": "skimage",
+        "documentation": {}
+    },
+    {
+        "label": "color",
+        "importPath": "skimage",
+        "description": "skimage",
+        "isExtraImport": true,
+        "detail": "skimage",
+        "documentation": {}
+    },
+    {
+        "label": "color",
+        "importPath": "skimage",
+        "description": "skimage",
+        "isExtraImport": true,
+        "detail": "skimage",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "errno",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "errno",
+        "description": "errno",
+        "detail": "errno",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "transforms",
+        "importPath": "torchvision",
+        "description": "torchvision",
+        "isExtraImport": true,
+        "detail": "torchvision",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "torchvision",
+        "description": "torchvision",
+        "isExtraImport": true,
+        "detail": "torchvision",
+        "documentation": {}
+    },
+    {
+        "label": "BackgroundRemovalDataLoader,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "BackgroundRemovalDataLoader.",
+        "description": "BackgroundRemovalDataLoader.",
+        "detail": "BackgroundRemovalDataLoader.",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "glob",
+        "description": "glob",
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "cv2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2",
+        "description": "cv2",
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "rearrange",
+        "importPath": "einops",
+        "description": "einops",
+        "isExtraImport": true,
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "rearrange",
+        "importPath": "einops",
+        "description": "einops",
+        "isExtraImport": true,
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "QPoint",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QSize",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "pyqtSignal",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QPointF",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QSize",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "pyqtSignal",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QSize",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "pyqtSignal",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QSize",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QPoint",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "pyqtSignal",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QRectF",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QRect",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QRectF",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QPoint",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QPointF",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "pyqtSignal",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QEvent",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QSize",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QSize",
+        "importPath": "PyQt6.QtCore",
+        "description": "PyQt6.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QColor",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QImage",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QPainter",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QImage",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QPainter",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QPen",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QColor",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QPainter",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QPen",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QColor",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QPen",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QColor",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QImage",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QPainter",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QPixmap",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QKeySequence",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QColor",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QMouseEvent",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QBrush",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QColor",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QPen",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QPixmap",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QPainterPath",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QPainter",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QPixmap",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QImage",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QPixmap",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QPainterPath",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QMouseEvent",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QPainter",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QPen",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QIcon",
+        "importPath": "PyQt6.QtGui",
+        "description": "PyQt6.QtGui",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QApplication",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFileDialog",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QCheckBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QGroupBox",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QHBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QPushButton",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QVBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QApplication",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLabel",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QSlider",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QToolBar",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QToolButton",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFileDialog",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QStatusBar",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QMenuBar",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QMenu",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QApplication",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QMainWindow",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QGraphicsRectItem",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QGraphicsItem",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QGraphicsPathItem",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QApplication",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QGraphicsView",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QGraphicsScene",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QGraphicsView",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QGraphicsScene",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFileDialog",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QSizePolicy",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "\\",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QToolButton",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QHBoxLayout",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QScrollArea",
+        "importPath": "PyQt6.QtWidgets",
+        "description": "PyQt6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "snap_ab",
+        "importPath": "ColorizerLabGamut",
+        "description": "ColorizerLabGamut",
+        "isExtraImport": true,
+        "detail": "ColorizerLabGamut",
+        "documentation": {}
+    },
+    {
+        "label": "abGrid",
+        "importPath": "ColorizerLabGamut",
+        "description": "ColorizerLabGamut",
+        "isExtraImport": true,
+        "detail": "ColorizerLabGamut",
+        "documentation": {}
+    },
+    {
+        "label": "lab2rgb_1d",
+        "importPath": "ColorizerLabGamut",
+        "description": "ColorizerLabGamut",
+        "isExtraImport": true,
+        "detail": "ColorizerLabGamut",
+        "documentation": {}
+    },
+    {
+        "label": "rgb2lab_1d",
+        "importPath": "ColorizerLabGamut",
+        "description": "ColorizerLabGamut",
+        "isExtraImport": true,
+        "detail": "ColorizerLabGamut",
+        "documentation": {}
+    },
+    {
+        "label": "UIControl",
+        "importPath": "ColorizerUiControl",
+        "description": "ColorizerUiControl",
+        "isExtraImport": true,
+        "detail": "ColorizerUiControl",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "GUIDraw",
+        "importPath": "ColorizerDraw",
+        "description": "ColorizerDraw",
+        "isExtraImport": true,
+        "detail": "ColorizerDraw",
+        "documentation": {}
+    },
+    {
+        "label": "GUIGamut",
+        "importPath": "ColorizerGamut",
+        "description": "ColorizerGamut",
+        "isExtraImport": true,
+        "detail": "ColorizerGamut",
+        "documentation": {}
+    },
+    {
+        "label": "GUIPalette",
+        "importPath": "ColorizerPalette",
+        "description": "ColorizerPalette",
+        "isExtraImport": true,
+        "detail": "ColorizerPalette",
+        "documentation": {}
+    },
+    {
+        "label": "GUI_VIS",
+        "importPath": "ColorizerVis",
+        "description": "ColorizerVis",
+        "isExtraImport": true,
+        "detail": "ColorizerVis",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "functools",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "functools",
+        "description": "functools",
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "partial",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "drop_path",
+        "importPath": "timm.models.layers",
+        "description": "timm.models.layers",
+        "isExtraImport": true,
+        "detail": "timm.models.layers",
+        "documentation": {}
+    },
+    {
+        "label": "to_2tuple",
+        "importPath": "timm.models.layers",
+        "description": "timm.models.layers",
+        "isExtraImport": true,
+        "detail": "timm.models.layers",
+        "documentation": {}
+    },
+    {
+        "label": "trunc_normal_",
+        "importPath": "timm.models.layers",
+        "description": "timm.models.layers",
+        "isExtraImport": true,
+        "detail": "timm.models.layers",
+        "documentation": {}
+    },
+    {
+        "label": "register_model",
+        "importPath": "timm.models.registry",
+        "description": "timm.models.registry",
+        "isExtraImport": true,
+        "detail": "timm.models.registry",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "width",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "PyQt6",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "PyQt6",
+        "description": "PyQt6",
+        "detail": "PyQt6",
+        "documentation": {}
+    },
+    {
+        "label": "QtWidgets",
+        "importPath": "PyQt6",
+        "description": "PyQt6",
+        "isExtraImport": true,
+        "detail": "PyQt6",
+        "documentation": {}
+    },
+    {
+        "label": "QtCore",
+        "importPath": "PyQt6",
+        "description": "PyQt6",
+        "isExtraImport": true,
+        "detail": "PyQt6",
+        "documentation": {}
+    },
+    {
+        "label": "QtGui",
+        "importPath": "PyQt6",
+        "description": "PyQt6",
+        "isExtraImport": true,
+        "detail": "PyQt6",
+        "documentation": {}
+    },
+    {
+        "label": "QtWidgets",
+        "importPath": "PyQt6",
+        "description": "PyQt6",
+        "isExtraImport": true,
+        "detail": "PyQt6",
+        "documentation": {}
+    },
+    {
+        "label": "QtGui",
+        "importPath": "PyQt6",
+        "description": "PyQt6",
+        "isExtraImport": true,
+        "detail": "PyQt6",
+        "documentation": {}
+    },
+    {
+        "label": "QtCore",
+        "importPath": "PyQt6",
+        "description": "PyQt6",
+        "isExtraImport": true,
+        "detail": "PyQt6",
+        "documentation": {}
+    },
+    {
+        "label": "QtCore",
+        "importPath": "PyQt6",
+        "description": "PyQt6",
+        "isExtraImport": true,
+        "detail": "PyQt6",
+        "documentation": {}
+    },
+    {
+        "label": "QtGui",
+        "importPath": "PyQt6",
+        "description": "PyQt6",
+        "isExtraImport": true,
+        "detail": "PyQt6",
+        "documentation": {}
+    },
+    {
+        "label": "QtWidgets",
+        "importPath": "PyQt6",
+        "description": "PyQt6",
+        "isExtraImport": true,
+        "detail": "PyQt6",
+        "documentation": {}
+    },
+    {
+        "label": "QtCore",
+        "importPath": "PyQt6",
+        "description": "PyQt6",
+        "isExtraImport": true,
+        "detail": "PyQt6",
+        "documentation": {}
+    },
+    {
+        "label": "QtGui",
+        "importPath": "PyQt6",
+        "description": "PyQt6",
+        "isExtraImport": true,
+        "detail": "PyQt6",
+        "documentation": {}
+    },
+    {
+        "label": "QtWidgets",
+        "importPath": "PyQt6",
+        "description": "PyQt6",
+        "isExtraImport": true,
+        "detail": "PyQt6",
+        "documentation": {}
+    },
+    {
+        "label": "QtWidgets",
+        "importPath": "PyQt6",
+        "description": "PyQt6",
+        "isExtraImport": true,
+        "detail": "PyQt6",
+        "documentation": {}
+    },
+    {
+        "label": "QtGui",
+        "importPath": "PyQt6",
+        "description": "PyQt6",
+        "isExtraImport": true,
+        "detail": "PyQt6",
+        "documentation": {}
+    },
+    {
+        "label": "QtCore",
+        "importPath": "PyQt6",
+        "description": "PyQt6",
+        "isExtraImport": true,
+        "detail": "PyQt6",
+        "documentation": {}
+    },
+    {
+        "label": "QtCore",
+        "importPath": "PyQt6",
+        "description": "PyQt6",
+        "isExtraImport": true,
+        "detail": "PyQt6",
+        "documentation": {}
+    },
+    {
+        "label": "QtCore",
+        "importPath": "PyQt6",
+        "description": "PyQt6",
+        "isExtraImport": true,
+        "detail": "PyQt6",
+        "documentation": {}
+    },
+    {
+        "label": "QtGui",
+        "importPath": "PyQt6",
+        "description": "PyQt6",
+        "isExtraImport": true,
+        "detail": "PyQt6",
+        "documentation": {}
+    },
+    {
+        "label": "QtWidgets",
+        "importPath": "PyQt6",
+        "description": "PyQt6",
+        "isExtraImport": true,
+        "detail": "PyQt6",
+        "documentation": {}
+    },
+    {
+        "label": "QtCore",
+        "importPath": "PyQt6",
+        "description": "PyQt6",
+        "isExtraImport": true,
+        "detail": "PyQt6",
+        "documentation": {}
+    },
+    {
+        "label": "QtCore",
+        "importPath": "PyQt6",
+        "description": "PyQt6",
+        "isExtraImport": true,
+        "detail": "PyQt6",
+        "documentation": {}
+    },
+    {
+        "label": "QtCore",
+        "importPath": "PyQt6",
+        "description": "PyQt6",
+        "isExtraImport": true,
+        "detail": "PyQt6",
+        "documentation": {}
+    },
+    {
+        "label": "QtGui",
+        "importPath": "PyQt6",
+        "description": "PyQt6",
+        "isExtraImport": true,
+        "detail": "PyQt6",
+        "documentation": {}
+    },
+    {
+        "label": "QtWidgets",
+        "importPath": "PyQt6",
+        "description": "PyQt6",
+        "isExtraImport": true,
+        "detail": "PyQt6",
+        "documentation": {}
+    },
+    {
+        "label": "QtImageViewer",
+        "importPath": "QImageViewer",
+        "description": "QImageViewer",
+        "isExtraImport": true,
+        "detail": "QImageViewer",
+        "documentation": {}
+    },
+    {
+        "label": "pyqtgraph",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pyqtgraph",
+        "description": "pyqtgraph",
+        "detail": "pyqtgraph",
+        "documentation": {}
+    },
+    {
+        "label": "QColorPicker",
+        "importPath": "QColorPicker",
+        "description": "QColorPicker",
+        "isExtraImport": true,
+        "detail": "QColorPicker",
+        "documentation": {}
+    },
+    {
+        "label": "QFlowLayout",
+        "importPath": "QFlowLayout",
+        "description": "QFlowLayout",
+        "isExtraImport": true,
+        "detail": "QFlowLayout",
+        "documentation": {}
+    },
+    {
+        "label": "QFlowLayout",
+        "importPath": "QFlowLayout",
+        "description": "QFlowLayout",
+        "isExtraImport": true,
+        "detail": "QFlowLayout",
+        "documentation": {}
+    },
+    {
+        "label": "QFlowLayout",
+        "importPath": "QFlowLayout",
+        "description": "QFlowLayout",
+        "isExtraImport": true,
+        "detail": "QFlowLayout",
+        "documentation": {}
+    },
+    {
+        "label": "QWorker",
+        "importPath": "QWorker",
+        "description": "QWorker",
+        "isExtraImport": true,
+        "detail": "QWorker",
+        "documentation": {}
+    },
+    {
+        "label": "QCurveWidget",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "QCurveWidget",
+        "description": "QCurveWidget",
+        "detail": "QCurveWidget",
+        "documentation": {}
+    },
+    {
+        "label": "timm",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "timm",
+        "description": "timm",
+        "detail": "timm",
+        "documentation": {}
+    },
+    {
+        "label": "types",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "types",
+        "description": "types",
+        "detail": "types",
+        "documentation": {}
+    },
+    {
+        "label": "colorsys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "colorsys",
+        "description": "colorsys",
+        "detail": "colorsys",
+        "documentation": {}
+    },
+    {
+        "label": "Ui_ColorPicker",
+        "importPath": "Ui_ColorPicker",
+        "description": "Ui_ColorPicker",
+        "isExtraImport": true,
+        "detail": "Ui_ColorPicker",
+        "documentation": {}
+    },
+    {
+        "label": "NurbsCurve",
+        "importPath": "panda3d.core",
+        "description": "panda3d.core",
+        "isExtraImport": true,
+        "detail": "panda3d.core",
+        "documentation": {}
+    },
+    {
+        "label": "Vec3",
+        "importPath": "panda3d.core",
+        "description": "panda3d.core",
+        "isExtraImport": true,
+        "detail": "panda3d.core",
+        "documentation": {}
+    },
+    {
+        "label": "Notify",
+        "importPath": "panda3d.core",
+        "description": "panda3d.core",
+        "isExtraImport": true,
+        "detail": "panda3d.core",
+        "documentation": {}
+    },
+    {
+        "label": "HermiteCurve",
+        "importPath": "panda3d.core",
+        "description": "panda3d.core",
+        "isExtraImport": true,
+        "detail": "panda3d.core",
+        "documentation": {}
+    },
+    {
+        "label": "CurveFitter",
+        "importPath": "panda3d.core",
+        "description": "panda3d.core",
+        "isExtraImport": true,
+        "detail": "panda3d.core",
+        "documentation": {}
+    },
+    {
+        "label": "os.path",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.path",
+        "description": "os.path",
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "QCropItem",
+        "importPath": "QCropItem",
+        "description": "QCropItem",
+        "isExtraImport": true,
+        "detail": "QCropItem",
+        "documentation": {}
+    },
+    {
+        "label": "ImageQt",
+        "importPath": "PIL.ImageQt",
+        "description": "PIL.ImageQt",
+        "isExtraImport": true,
+        "detail": "PIL.ImageQt",
+        "documentation": {}
+    },
+    {
+        "label": "QProgressBarThread",
+        "importPath": "QProgressBarThread",
+        "description": "QProgressBarThread",
+        "isExtraImport": true,
+        "detail": "QProgressBarThread",
+        "documentation": {}
+    },
+    {
+        "label": "QTool",
+        "importPath": "QTool",
+        "description": "QTool",
+        "isExtraImport": true,
+        "detail": "QTool",
+        "documentation": {}
+    },
+    {
+        "label": "QTool",
+        "importPath": "QTool",
+        "description": "QTool",
+        "isExtraImport": true,
+        "detail": "QTool",
+        "documentation": {}
+    },
+    {
+        "label": "QTool",
+        "importPath": "QTool",
+        "description": "QTool",
+        "isExtraImport": true,
+        "detail": "QTool",
+        "documentation": {}
+    },
+    {
+        "label": "QTool",
+        "importPath": "QTool",
+        "description": "QTool",
+        "isExtraImport": true,
+        "detail": "QTool",
+        "documentation": {}
+    },
+    {
+        "label": "QTool",
+        "importPath": "QTool",
+        "description": "QTool",
+        "isExtraImport": true,
+        "detail": "QTool",
+        "documentation": {}
+    },
+    {
+        "label": "QTool",
+        "importPath": "QTool",
+        "description": "QTool",
+        "isExtraImport": true,
+        "detail": "QTool",
+        "documentation": {}
+    },
+    {
+        "label": "QTool",
+        "importPath": "QTool",
+        "description": "QTool",
+        "isExtraImport": true,
+        "detail": "QTool",
+        "documentation": {}
+    },
+    {
+        "label": "QTool",
+        "importPath": "QTool",
+        "description": "QTool",
+        "isExtraImport": true,
+        "detail": "QTool",
+        "documentation": {}
+    },
+    {
+        "label": "ctypes",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "multiprocessing",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "multiprocessing",
+        "description": "multiprocessing",
+        "detail": "multiprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "platform",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "platform",
+        "description": "platform",
+        "detail": "platform",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "tkinter",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "PhotoImage",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "tkinter.font",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tkinter.font",
+        "description": "tkinter.font",
+        "detail": "tkinter.font",
+        "documentation": {}
+    },
+    {
+        "label": "webbrowser",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "webbrowser",
+        "description": "webbrowser",
+        "detail": "webbrowser",
+        "documentation": {}
+    },
+    {
+        "label": "default_timer",
+        "importPath": "timeit",
+        "description": "timeit",
+        "isExtraImport": true,
+        "detail": "timeit",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn.init",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn.init",
+        "description": "torch.nn.init",
+        "detail": "torch.nn.init",
+        "documentation": {}
+    },
+    {
+        "label": "CompositeAudioClip",
+        "importPath": "moviepy.audio.AudioClip",
+        "description": "moviepy.audio.AudioClip",
+        "isExtraImport": true,
+        "detail": "moviepy.audio.AudioClip",
+        "documentation": {}
+    },
+    {
+        "label": "AudioFileClip",
+        "importPath": "moviepy.audio.io",
+        "description": "moviepy.audio.io",
+        "isExtraImport": true,
+        "detail": "moviepy.audio.io",
+        "documentation": {}
+    },
+    {
+        "label": "ImageSequenceClip",
+        "importPath": "moviepy.video.io",
+        "description": "moviepy.video.io",
+        "isExtraImport": true,
+        "detail": "moviepy.video.io",
+        "documentation": {}
+    },
+    {
+        "label": "VideoFileClip",
+        "importPath": "moviepy.video.io",
+        "description": "moviepy.video.io",
+        "isExtraImport": true,
+        "detail": "moviepy.video.io",
+        "documentation": {}
+    },
+    {
+        "label": "reverse_split",
+        "importPath": "QualityScalerUtilities",
+        "description": "QualityScalerUtilities",
+        "isExtraImport": true,
+        "detail": "QualityScalerUtilities",
+        "documentation": {}
+    },
+    {
+        "label": "split_image",
+        "importPath": "QualityScalerUtilities",
+        "description": "QualityScalerUtilities",
+        "isExtraImport": true,
+        "detail": "QualityScalerUtilities",
+        "documentation": {}
+    },
+    {
+        "label": "traceback,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "traceback.",
+        "description": "traceback.",
+        "detail": "traceback.",
+        "documentation": {}
+    },
+    {
+        "label": "numpy.matlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy.matlib",
+        "description": "numpy.matlib",
+        "detail": "numpy.matlib",
+        "documentation": {}
+    },
+    {
+        "label": "convert_temp",
+        "kind": 2,
+        "importPath": "src.AdjustTemperature",
+        "description": "src.AdjustTemperature",
+        "peekOfCode": "def convert_temp(image, temp):\n    r, g, b = kelvin_table[temp]\n    matrix = ( r / 255.0, 0.0, 0.0, 0.0,\n               0.0, g / 255.0, 0.0, 0.0,\n               0.0, 0.0, b / 255.0, 0.0 )\n    return image.convert('RGB', matrix)",
+        "detail": "src.AdjustTemperature",
+        "documentation": {}
+    },
+    {
+        "label": "kelvin_table",
+        "kind": 5,
+        "importPath": "src.AdjustTemperature",
+        "description": "src.AdjustTemperature",
+        "peekOfCode": "kelvin_table = {\n    1000: (255,56,0),\n    1500: (255,109,0),\n    2000: (255,137,18),\n    2500: (255,161,72),\n    3000: (255,180,107),\n    3500: (255,196,137),\n    4000: (255,209,163),\n    4500: (255,219,186),\n    5000: (255,228,206),",
+        "detail": "src.AdjustTemperature",
+        "documentation": {}
+    },
+    {
+        "label": "ConvNormLReLU",
+        "kind": 6,
+        "importPath": "src.AnimeGANModel",
+        "description": "src.AnimeGANModel",
+        "peekOfCode": "class ConvNormLReLU(nn.Sequential):\n    def __init__(self, in_ch, out_ch, kernel_size=3, stride=1, padding=1, pad_mode=\"reflect\", groups=1, bias=False):\n        pad_layer = {\n            \"zero\":    nn.ZeroPad2d,\n            \"same\":    nn.ReplicationPad2d,\n            \"reflect\": nn.ReflectionPad2d,\n        }\n        if pad_mode not in pad_layer:\n            raise NotImplementedError\n        super(ConvNormLReLU, self).__init__(",
+        "detail": "src.AnimeGANModel",
+        "documentation": {}
+    },
+    {
+        "label": "InvertedResBlock",
+        "kind": 6,
+        "importPath": "src.AnimeGANModel",
+        "description": "src.AnimeGANModel",
+        "peekOfCode": "class InvertedResBlock(nn.Module):\n    def __init__(self, in_ch, out_ch, expansion_ratio=2):\n        super(InvertedResBlock, self).__init__()\n        self.use_res_connect = in_ch == out_ch\n        bottleneck = int(round(in_ch*expansion_ratio))\n        layers = []\n        if expansion_ratio != 1:\n            layers.append(ConvNormLReLU(in_ch, bottleneck, kernel_size=1, padding=0))\n        # dw\n        layers.append(ConvNormLReLU(bottleneck, bottleneck, groups=bottleneck, bias=True))",
+        "detail": "src.AnimeGANModel",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "kind": 6,
+        "importPath": "src.AnimeGANModel",
+        "description": "src.AnimeGANModel",
+        "peekOfCode": "class Generator(nn.Module):\n    def __init__(self, ):\n        super().__init__()\n        self.block_a = nn.Sequential(\n            ConvNormLReLU(3,  32, kernel_size=7, padding=3),\n            ConvNormLReLU(32, 64, stride=2, padding=(0,1,0,1)),\n            ConvNormLReLU(64, 64)\n        )\n        self.block_b = nn.Sequential(\n            ConvNormLReLU(64,  128, stride=2, padding=(0,1,0,1)),            ",
+        "detail": "src.AnimeGANModel",
+        "documentation": {}
+    },
+    {
+        "label": "Net",
+        "kind": 6,
+        "importPath": "src.BackgroundRemoval",
+        "description": "src.BackgroundRemoval",
+        "peekOfCode": "class Net(torch.nn.Module):\n    def __init__(self, model_name):\n        super(Net, self).__init__()\n        net = BackgroundRemovalU2net.U2NET(3, 1)\n        path = os.path.join(U2NET_MODEL_LOCATION, model_name)\n        net.load_state_dict(torch.load(path, map_location=torch.device(DEVICE)))\n        net.to(device=DEVICE, dtype=torch.float32, non_blocking=True)\n        net.eval()\n        self.net = net\n    def forward(self, block_input: torch.Tensor):",
+        "detail": "src.BackgroundRemoval",
+        "documentation": {}
+    },
+    {
+        "label": "alpha_matting_cutout",
+        "kind": 2,
+        "importPath": "src.BackgroundRemoval",
+        "description": "src.BackgroundRemoval",
+        "peekOfCode": "def alpha_matting_cutout(\n    img,\n    mask,\n    foreground_threshold,\n    background_threshold,\n    erode_structure_size,\n    base_size,\n):\n    size = img.size\n    img.thumbnail((base_size, base_size), Image.LANCZOS)",
+        "detail": "src.BackgroundRemoval",
+        "documentation": {}
+    },
+    {
+        "label": "naive_cutout",
+        "kind": 2,
+        "importPath": "src.BackgroundRemoval",
+        "description": "src.BackgroundRemoval",
+        "peekOfCode": "def naive_cutout(img, mask):\n    empty = Image.new(\"RGBA\", (img.size), 0)\n    cutout = Image.composite(img, empty, mask.resize(img.size, Image.LANCZOS))\n    return cutout\ndef get_model(model_name):\n    if model_name == \"u2netp\":\n        return BackgroundRemovalDetect.load_model(model_name=\"u2netp\")\n    if model_name == \"u2net_human_seg\":\n        return BackgroundRemovalDetect.load_model(model_name=\"u2net_human_seg\")\n    else:",
+        "detail": "src.BackgroundRemoval",
+        "documentation": {}
+    },
+    {
+        "label": "get_model",
+        "kind": 2,
+        "importPath": "src.BackgroundRemoval",
+        "description": "src.BackgroundRemoval",
+        "peekOfCode": "def get_model(model_name):\n    if model_name == \"u2netp\":\n        return BackgroundRemovalDetect.load_model(model_name=\"u2netp\")\n    if model_name == \"u2net_human_seg\":\n        return BackgroundRemovalDetect.load_model(model_name=\"u2net_human_seg\")\n    else:\n        return BackgroundRemovalDetect.load_model(model_name=\"u2net\")\ndef remove(\n    data,\n    model_name=\"u2net_human_seg\",",
+        "detail": "src.BackgroundRemoval",
+        "documentation": {}
+    },
+    {
+        "label": "remove",
+        "kind": 2,
+        "importPath": "src.BackgroundRemoval",
+        "description": "src.BackgroundRemoval",
+        "peekOfCode": "def remove(\n    data,\n    model_name=\"u2net_human_seg\",\n    alpha_matting=False,\n    alpha_matting_foreground_threshold=240,\n    alpha_matting_background_threshold=10,\n    alpha_matting_erode_structure_size=10,\n    alpha_matting_base_size=500,\n):\n    model = get_model(model_name)",
+        "detail": "src.BackgroundRemoval",
+        "documentation": {}
+    },
+    {
+        "label": "remove2",
+        "kind": 2,
+        "importPath": "src.BackgroundRemoval",
+        "description": "src.BackgroundRemoval",
+        "peekOfCode": "def remove2(\n    img,\n    progressSignal,\n    model_name=\"u2net\",\n    alpha_matting=True,\n    alpha_matting_foreground_threshold=200,\n    alpha_matting_background_threshold=10,\n    alpha_matting_erode_structure_size=10,\n    alpha_matting_base_size=1000,\n):",
+        "detail": "src.BackgroundRemoval",
+        "documentation": {}
+    },
+    {
+        "label": "iter_frames",
+        "kind": 2,
+        "importPath": "src.BackgroundRemoval",
+        "description": "src.BackgroundRemoval",
+        "peekOfCode": "def iter_frames(path):\n    return mpy.VideoFileClip(path).resize(height=320).iter_frames(dtype=\"uint8\")\n@torch.no_grad()\ndef remove_many(image_data: typing.List[np.array], net: Net):\n    image_data = np.stack(image_data)\n    image_data = torch.as_tensor(image_data, dtype=torch.float32, device=DEVICE)\n    return net(image_data).numpy()",
+        "detail": "src.BackgroundRemoval",
+        "documentation": {}
+    },
+    {
+        "label": "remove_many",
+        "kind": 2,
+        "importPath": "src.BackgroundRemoval",
+        "description": "src.BackgroundRemoval",
+        "peekOfCode": "def remove_many(image_data: typing.List[np.array], net: Net):\n    image_data = np.stack(image_data)\n    image_data = torch.as_tensor(image_data, dtype=torch.float32, device=DEVICE)\n    return net(image_data).numpy()",
+        "detail": "src.BackgroundRemoval",
+        "documentation": {}
+    },
+    {
+        "label": "DEVICE",
+        "kind": 5,
+        "importPath": "src.BackgroundRemoval",
+        "description": "src.BackgroundRemoval",
+        "peekOfCode": "DEVICE = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')\nU2NET_MODEL_LOCATION=\"models\"\nclass Net(torch.nn.Module):\n    def __init__(self, model_name):\n        super(Net, self).__init__()\n        net = BackgroundRemovalU2net.U2NET(3, 1)\n        path = os.path.join(U2NET_MODEL_LOCATION, model_name)\n        net.load_state_dict(torch.load(path, map_location=torch.device(DEVICE)))\n        net.to(device=DEVICE, dtype=torch.float32, non_blocking=True)\n        net.eval()",
+        "detail": "src.BackgroundRemoval",
+        "documentation": {}
+    },
+    {
+        "label": "RescaleT",
+        "kind": 6,
+        "importPath": "src.BackgroundRemovalDataLoader",
+        "description": "src.BackgroundRemovalDataLoader",
+        "peekOfCode": "class RescaleT(object):\n    def __init__(self, output_size):\n        assert isinstance(output_size, (int, tuple))\n        self.output_size = output_size\n    def __call__(self, sample):\n        imidx, image, label = sample[\"imidx\"], sample[\"image\"], sample[\"label\"]\n        h, w = image.shape[:2]\n        if isinstance(self.output_size, int):\n            if h > w:\n                new_h, new_w = self.output_size * h / w, self.output_size",
+        "detail": "src.BackgroundRemovalDataLoader",
+        "documentation": {}
+    },
+    {
+        "label": "Rescale",
+        "kind": 6,
+        "importPath": "src.BackgroundRemovalDataLoader",
+        "description": "src.BackgroundRemovalDataLoader",
+        "peekOfCode": "class Rescale(object):\n    def __init__(self, output_size):\n        assert isinstance(output_size, (int, tuple))\n        self.output_size = output_size\n    def __call__(self, sample):\n        imidx, image, label = sample[\"imidx\"], sample[\"image\"], sample[\"label\"]\n        if random.random() >= 0.5:\n            image = image[::-1]\n            label = label[::-1]\n        h, w = image.shape[:2]",
+        "detail": "src.BackgroundRemovalDataLoader",
+        "documentation": {}
+    },
+    {
+        "label": "RandomCrop",
+        "kind": 6,
+        "importPath": "src.BackgroundRemovalDataLoader",
+        "description": "src.BackgroundRemovalDataLoader",
+        "peekOfCode": "class RandomCrop(object):\n    def __init__(self, output_size):\n        assert isinstance(output_size, (int, tuple))\n        if isinstance(output_size, int):\n            self.output_size = (output_size, output_size)\n        else:\n            assert len(output_size) == 2\n            self.output_size = output_size\n    def __call__(self, sample):\n        imidx, image, label = sample[\"imidx\"], sample[\"image\"], sample[\"label\"]",
+        "detail": "src.BackgroundRemovalDataLoader",
+        "documentation": {}
+    },
+    {
+        "label": "ToTensor",
+        "kind": 6,
+        "importPath": "src.BackgroundRemovalDataLoader",
+        "description": "src.BackgroundRemovalDataLoader",
+        "peekOfCode": "class ToTensor(object):\n    \"\"\"Convert ndarrays in sample to Tensors.\"\"\"\n    def __call__(self, sample):\n        imidx, image, label = sample[\"imidx\"], sample[\"image\"], sample[\"label\"]\n        tmpImg = np.zeros((image.shape[0], image.shape[1], 3))\n        tmpLbl = np.zeros(label.shape)\n        image = image / np.max(image)\n        if np.max(label) < 1e-6:\n            label = label\n        else:",
+        "detail": "src.BackgroundRemovalDataLoader",
+        "documentation": {}
+    },
+    {
+        "label": "ToTensorLab",
+        "kind": 6,
+        "importPath": "src.BackgroundRemovalDataLoader",
+        "description": "src.BackgroundRemovalDataLoader",
+        "peekOfCode": "class ToTensorLab(object):\n    \"\"\"Convert ndarrays in sample to Tensors.\"\"\"\n    def __init__(self, flag=0):\n        self.flag = flag\n    def __call__(self, sample):\n        imidx, image, label = sample[\"imidx\"], sample[\"image\"], sample[\"label\"]\n        tmpLbl = np.zeros(label.shape)\n        if np.max(label) < 1e-6:\n            label = label\n        else:",
+        "detail": "src.BackgroundRemovalDataLoader",
+        "documentation": {}
+    },
+    {
+        "label": "SalObjDataset",
+        "kind": 6,
+        "importPath": "src.BackgroundRemovalDataLoader",
+        "description": "src.BackgroundRemovalDataLoader",
+        "peekOfCode": "class SalObjDataset(Dataset):\n    def __init__(self, img_name_list, lbl_name_list, transform=None):\n        # self.root_dir = root_dir\n        # self.image_name_list = glob.glob(image_dir+'*.png')\n        # self.label_name_list = glob.glob(label_dir+'*.png')\n        self.image_name_list = img_name_list\n        self.label_name_list = lbl_name_list\n        self.transform = transform\n    def __len__(self):\n        return len(self.image_name_list)",
+        "detail": "src.BackgroundRemovalDataLoader",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "kind": 2,
+        "importPath": "src.BackgroundRemovalDetect",
+        "description": "src.BackgroundRemovalDetect",
+        "peekOfCode": "def load_model(model_name: str = \"u2net\"):\n    net = BackgroundRemovalU2net.U2NET(3, 1)\n    path = os.path.join(U2NET_MODEL_LOCATION, model_name + \".pth\")\n    try:\n        if torch.cuda.is_available():\n            net.load_state_dict(torch.load(path))\n            net.to(torch.device(\"cuda\"))\n        else:\n            net.load_state_dict(\n                torch.load(",
+        "detail": "src.BackgroundRemovalDetect",
+        "documentation": {}
+    },
+    {
+        "label": "norm_pred",
+        "kind": 2,
+        "importPath": "src.BackgroundRemovalDetect",
+        "description": "src.BackgroundRemovalDetect",
+        "peekOfCode": "def norm_pred(d):\n    ma = torch.max(d)\n    mi = torch.min(d)\n    dn = (d - mi) / (ma - mi)\n    return dn\ndef preprocess(image):\n    label_3 = np.zeros(image.shape)\n    label = np.zeros(label_3.shape[0:2])\n    if 3 == len(label_3.shape):\n        label = label_3[:, :, 0]",
+        "detail": "src.BackgroundRemovalDetect",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess",
+        "kind": 2,
+        "importPath": "src.BackgroundRemovalDetect",
+        "description": "src.BackgroundRemovalDetect",
+        "peekOfCode": "def preprocess(image):\n    label_3 = np.zeros(image.shape)\n    label = np.zeros(label_3.shape[0:2])\n    if 3 == len(label_3.shape):\n        label = label_3[:, :, 0]\n    elif 2 == len(label_3.shape):\n        label = label_3\n    if 3 == len(image.shape) and 2 == len(label.shape):\n        label = label[:, :, np.newaxis]\n    elif 2 == len(image.shape) and 2 == len(label.shape):",
+        "detail": "src.BackgroundRemovalDetect",
+        "documentation": {}
+    },
+    {
+        "label": "predict",
+        "kind": 2,
+        "importPath": "src.BackgroundRemovalDetect",
+        "description": "src.BackgroundRemovalDetect",
+        "peekOfCode": "def predict(net, item):\n    sample = preprocess(item)\n    with torch.no_grad():\n        if torch.cuda.is_available():\n            inputs_test = torch.cuda.FloatTensor(\n                sample[\"image\"].unsqueeze(0).cuda().float()\n            )\n        else:\n            inputs_test = torch.FloatTensor(sample[\"image\"].unsqueeze(0).float())\n        d1, d2, d3, d4, d5, d6, d7 = net(inputs_test)",
+        "detail": "src.BackgroundRemovalDetect",
+        "documentation": {}
+    },
+    {
+        "label": "U2NET_MODEL_LOCATION",
+        "kind": 5,
+        "importPath": "src.BackgroundRemovalDetect",
+        "description": "src.BackgroundRemovalDetect",
+        "peekOfCode": "U2NET_MODEL_LOCATION = \"models\"\ndef load_model(model_name: str = \"u2net\"):\n    net = BackgroundRemovalU2net.U2NET(3, 1)\n    path = os.path.join(U2NET_MODEL_LOCATION, model_name + \".pth\")\n    try:\n        if torch.cuda.is_available():\n            net.load_state_dict(torch.load(path))\n            net.to(torch.device(\"cuda\"))\n        else:\n            net.load_state_dict(",
+        "detail": "src.BackgroundRemovalDetect",
+        "documentation": {}
+    },
+    {
+        "label": "REBNCONV",
+        "kind": 6,
+        "importPath": "src.BackgroundRemovalU2net",
+        "description": "src.BackgroundRemovalU2net",
+        "peekOfCode": "class REBNCONV(nn.Module):\n    def __init__(self, in_ch=3, out_ch=3, dirate=1):\n        super(REBNCONV, self).__init__()\n        self.conv_s1 = nn.Conv2d(\n            in_ch, out_ch, 3, padding=1 * dirate, dilation=1 * dirate\n        )\n        self.bn_s1 = nn.BatchNorm2d(out_ch)\n        self.relu_s1 = nn.ReLU(inplace=True)\n    def forward(self, x):\n        hx = x",
+        "detail": "src.BackgroundRemovalU2net",
+        "documentation": {}
+    },
+    {
+        "label": "RSU7",
+        "kind": 6,
+        "importPath": "src.BackgroundRemovalU2net",
+        "description": "src.BackgroundRemovalU2net",
+        "peekOfCode": "class RSU7(nn.Module):  # UNet07DRES(nn.Module):\n    def __init__(self, in_ch=3, mid_ch=12, out_ch=3):\n        super(RSU7, self).__init__()\n        self.rebnconvin = REBNCONV(in_ch, out_ch, dirate=1)\n        self.rebnconv1 = REBNCONV(out_ch, mid_ch, dirate=1)\n        self.pool1 = nn.MaxPool2d(2, stride=2, ceil_mode=True)\n        self.rebnconv2 = REBNCONV(mid_ch, mid_ch, dirate=1)\n        self.pool2 = nn.MaxPool2d(2, stride=2, ceil_mode=True)\n        self.rebnconv3 = REBNCONV(mid_ch, mid_ch, dirate=1)\n        self.pool3 = nn.MaxPool2d(2, stride=2, ceil_mode=True)",
+        "detail": "src.BackgroundRemovalU2net",
+        "documentation": {}
+    },
+    {
+        "label": "RSU6",
+        "kind": 6,
+        "importPath": "src.BackgroundRemovalU2net",
+        "description": "src.BackgroundRemovalU2net",
+        "peekOfCode": "class RSU6(nn.Module):  # UNet06DRES(nn.Module):\n    def __init__(self, in_ch=3, mid_ch=12, out_ch=3):\n        super(RSU6, self).__init__()\n        self.rebnconvin = REBNCONV(in_ch, out_ch, dirate=1)\n        self.rebnconv1 = REBNCONV(out_ch, mid_ch, dirate=1)\n        self.pool1 = nn.MaxPool2d(2, stride=2, ceil_mode=True)\n        self.rebnconv2 = REBNCONV(mid_ch, mid_ch, dirate=1)\n        self.pool2 = nn.MaxPool2d(2, stride=2, ceil_mode=True)\n        self.rebnconv3 = REBNCONV(mid_ch, mid_ch, dirate=1)\n        self.pool3 = nn.MaxPool2d(2, stride=2, ceil_mode=True)",
+        "detail": "src.BackgroundRemovalU2net",
+        "documentation": {}
+    },
+    {
+        "label": "RSU5",
+        "kind": 6,
+        "importPath": "src.BackgroundRemovalU2net",
+        "description": "src.BackgroundRemovalU2net",
+        "peekOfCode": "class RSU5(nn.Module):  # UNet05DRES(nn.Module):\n    def __init__(self, in_ch=3, mid_ch=12, out_ch=3):\n        super(RSU5, self).__init__()\n        self.rebnconvin = REBNCONV(in_ch, out_ch, dirate=1)\n        self.rebnconv1 = REBNCONV(out_ch, mid_ch, dirate=1)\n        self.pool1 = nn.MaxPool2d(2, stride=2, ceil_mode=True)\n        self.rebnconv2 = REBNCONV(mid_ch, mid_ch, dirate=1)\n        self.pool2 = nn.MaxPool2d(2, stride=2, ceil_mode=True)\n        self.rebnconv3 = REBNCONV(mid_ch, mid_ch, dirate=1)\n        self.pool3 = nn.MaxPool2d(2, stride=2, ceil_mode=True)",
+        "detail": "src.BackgroundRemovalU2net",
+        "documentation": {}
+    },
+    {
+        "label": "RSU4",
+        "kind": 6,
+        "importPath": "src.BackgroundRemovalU2net",
+        "description": "src.BackgroundRemovalU2net",
+        "peekOfCode": "class RSU4(nn.Module):  # UNet04DRES(nn.Module):\n    def __init__(self, in_ch=3, mid_ch=12, out_ch=3):\n        super(RSU4, self).__init__()\n        self.rebnconvin = REBNCONV(in_ch, out_ch, dirate=1)\n        self.rebnconv1 = REBNCONV(out_ch, mid_ch, dirate=1)\n        self.pool1 = nn.MaxPool2d(2, stride=2, ceil_mode=True)\n        self.rebnconv2 = REBNCONV(mid_ch, mid_ch, dirate=1)\n        self.pool2 = nn.MaxPool2d(2, stride=2, ceil_mode=True)\n        self.rebnconv3 = REBNCONV(mid_ch, mid_ch, dirate=1)\n        self.rebnconv4 = REBNCONV(mid_ch, mid_ch, dirate=2)",
+        "detail": "src.BackgroundRemovalU2net",
+        "documentation": {}
+    },
+    {
+        "label": "RSU4F",
+        "kind": 6,
+        "importPath": "src.BackgroundRemovalU2net",
+        "description": "src.BackgroundRemovalU2net",
+        "peekOfCode": "class RSU4F(nn.Module):  # UNet04FRES(nn.Module):\n    def __init__(self, in_ch=3, mid_ch=12, out_ch=3):\n        super(RSU4F, self).__init__()\n        self.rebnconvin = REBNCONV(in_ch, out_ch, dirate=1)\n        self.rebnconv1 = REBNCONV(out_ch, mid_ch, dirate=1)\n        self.rebnconv2 = REBNCONV(mid_ch, mid_ch, dirate=2)\n        self.rebnconv3 = REBNCONV(mid_ch, mid_ch, dirate=4)\n        self.rebnconv4 = REBNCONV(mid_ch, mid_ch, dirate=8)\n        self.rebnconv3d = REBNCONV(mid_ch * 2, mid_ch, dirate=4)\n        self.rebnconv2d = REBNCONV(mid_ch * 2, mid_ch, dirate=2)",
+        "detail": "src.BackgroundRemovalU2net",
+        "documentation": {}
+    },
+    {
+        "label": "U2NET",
+        "kind": 6,
+        "importPath": "src.BackgroundRemovalU2net",
+        "description": "src.BackgroundRemovalU2net",
+        "peekOfCode": "class U2NET(nn.Module):\n    def __init__(self, in_ch=3, out_ch=1):\n        super(U2NET, self).__init__()\n        self.stage1 = RSU7(in_ch, 32, 64)\n        self.pool12 = nn.MaxPool2d(2, stride=2, ceil_mode=True)\n        self.stage2 = RSU6(64, 32, 128)\n        self.pool23 = nn.MaxPool2d(2, stride=2, ceil_mode=True)\n        self.stage3 = RSU5(128, 64, 256)\n        self.pool34 = nn.MaxPool2d(2, stride=2, ceil_mode=True)\n        self.stage4 = RSU4(256, 128, 512)",
+        "detail": "src.BackgroundRemovalU2net",
+        "documentation": {}
+    },
+    {
+        "label": "U2NETP",
+        "kind": 6,
+        "importPath": "src.BackgroundRemovalU2net",
+        "description": "src.BackgroundRemovalU2net",
+        "peekOfCode": "class U2NETP(nn.Module):\n    def __init__(self, in_ch=3, out_ch=1):\n        super(U2NETP, self).__init__()\n        self.stage1 = RSU7(in_ch, 16, 64)\n        self.pool12 = nn.MaxPool2d(2, stride=2, ceil_mode=True)\n        self.stage2 = RSU6(64, 16, 64)\n        self.pool23 = nn.MaxPool2d(2, stride=2, ceil_mode=True)\n        self.stage3 = RSU5(64, 16, 64)\n        self.pool34 = nn.MaxPool2d(2, stride=2, ceil_mode=True)\n        self.stage4 = RSU4(64, 16, 64)",
+        "detail": "src.BackgroundRemovalU2net",
+        "documentation": {}
+    },
+    {
+        "label": "GUIDraw",
+        "kind": 6,
+        "importPath": "src.ColorizerDraw",
+        "description": "src.ColorizerDraw",
+        "peekOfCode": "class GUIDraw(QWidget):\n    # Signals\n    update_color = pyqtSignal(str)\n    update_gammut = pyqtSignal(object)\n    used_colors = pyqtSignal(object)\n    update_ab = pyqtSignal(object)\n    update_result = pyqtSignal(object)\n    def __init__(self, model=None, load_size=224, win_size=512, device='cpu'):\n        QWidget.__init__(self)\n        self.image_file = None",
+        "detail": "src.ColorizerDraw",
+        "documentation": {}
+    },
+    {
+        "label": "GUIGamut",
+        "kind": 6,
+        "importPath": "src.ColorizerGamut",
+        "description": "src.ColorizerGamut",
+        "peekOfCode": "class GUIGamut(QWidget):\n    update_color = pyqtSignal(object)\n    def __init__(self, gamut_size=110):\n        QWidget.__init__(self)\n        self.gamut_size = gamut_size\n        self.win_size = gamut_size * 2  # divided by 4\n        self.setFixedSize(self.win_size, self.win_size)\n        self.ab_grid = abGrid(gamut_size=gamut_size, D=1)\n        self.reset()\n    def set_gamut(self, l_in=50):",
+        "detail": "src.ColorizerGamut",
+        "documentation": {}
+    },
+    {
+        "label": "abGrid",
+        "kind": 6,
+        "importPath": "src.ColorizerLabGamut",
+        "description": "src.ColorizerLabGamut",
+        "peekOfCode": "class abGrid():\n    def __init__(self, gamut_size=110, D=1):\n        self.D = D\n        self.vals_b, self.vals_a = np.meshgrid(np.arange(-gamut_size, gamut_size + D, D),\n                                               np.arange(-gamut_size, gamut_size + D, D))\n        self.pts_full_grid = np.concatenate((self.vals_a[:, :, np.newaxis], self.vals_b[:, :, np.newaxis]), axis=2)\n        self.A = self.pts_full_grid.shape[0]\n        self.B = self.pts_full_grid.shape[1]\n        self.AB = self.A * self.B\n        self.gamut_size = gamut_size",
+        "detail": "src.ColorizerLabGamut",
+        "documentation": {}
+    },
+    {
+        "label": "qcolor2lab_1d",
+        "kind": 2,
+        "importPath": "src.ColorizerLabGamut",
+        "description": "src.ColorizerLabGamut",
+        "peekOfCode": "def qcolor2lab_1d(qc):\n    # take 1d numpy array and do color conversion\n    c = np.array([qc.red(), qc.green(), qc.blue()], np.uint8)\n    return rgb2lab_1d(c)\ndef rgb2lab_1d(in_rgb):\n    # take 1d numpy array and do color conversion\n    # print('in_rgb', in_rgb)\n    return color.rgb2lab(in_rgb[np.newaxis, np.newaxis, :]).flatten()\ndef lab2rgb_1d(in_lab, clip=True, dtype='uint8'):\n    warnings.filterwarnings(\"ignore\")",
+        "detail": "src.ColorizerLabGamut",
+        "documentation": {}
+    },
+    {
+        "label": "rgb2lab_1d",
+        "kind": 2,
+        "importPath": "src.ColorizerLabGamut",
+        "description": "src.ColorizerLabGamut",
+        "peekOfCode": "def rgb2lab_1d(in_rgb):\n    # take 1d numpy array and do color conversion\n    # print('in_rgb', in_rgb)\n    return color.rgb2lab(in_rgb[np.newaxis, np.newaxis, :]).flatten()\ndef lab2rgb_1d(in_lab, clip=True, dtype='uint8'):\n    warnings.filterwarnings(\"ignore\")\n    tmp_rgb = color.lab2rgb(in_lab[np.newaxis, np.newaxis, :]).flatten()\n    if clip:\n        tmp_rgb = np.clip(tmp_rgb, 0, 1)\n    if dtype == 'uint8':",
+        "detail": "src.ColorizerLabGamut",
+        "documentation": {}
+    },
+    {
+        "label": "lab2rgb_1d",
+        "kind": 2,
+        "importPath": "src.ColorizerLabGamut",
+        "description": "src.ColorizerLabGamut",
+        "peekOfCode": "def lab2rgb_1d(in_lab, clip=True, dtype='uint8'):\n    warnings.filterwarnings(\"ignore\")\n    tmp_rgb = color.lab2rgb(in_lab[np.newaxis, np.newaxis, :]).flatten()\n    if clip:\n        tmp_rgb = np.clip(tmp_rgb, 0, 1)\n    if dtype == 'uint8':\n        tmp_rgb = np.round(tmp_rgb * 255).astype('uint8')\n    return tmp_rgb\ndef snap_ab(input_l, input_rgb, return_type='rgb'):\n    ''' given an input lightness and rgb, snap the color into a region where l,a,b is in-gamut",
+        "detail": "src.ColorizerLabGamut",
+        "documentation": {}
+    },
+    {
+        "label": "snap_ab",
+        "kind": 2,
+        "importPath": "src.ColorizerLabGamut",
+        "description": "src.ColorizerLabGamut",
+        "peekOfCode": "def snap_ab(input_l, input_rgb, return_type='rgb'):\n    ''' given an input lightness and rgb, snap the color into a region where l,a,b is in-gamut\n    '''\n    T = 20\n    warnings.filterwarnings(\"ignore\")\n    input_lab = rgb2lab_1d(np.array(input_rgb))  # convert input to lab\n    conv_lab = input_lab.copy()  # keep ab from input\n    for t in range(T):\n        conv_lab[0] = input_l  # overwrite input l with input ab\n        old_lab = conv_lab",
+        "detail": "src.ColorizerLabGamut",
+        "documentation": {}
+    },
+    {
+        "label": "IColoriTUI",
+        "kind": 6,
+        "importPath": "src.ColorizerMain",
+        "description": "src.ColorizerMain",
+        "peekOfCode": "class IColoriTUI(QWidget):\n    def __init__(self, parent, viewer, alphaChannel, color_model, im_bgr=None, load_size=224, win_size=256, device='cpu'):\n        # draw the layout\n        QWidget.__init__(self, parent)\n        self.viewer = viewer\n        self.alphaChannel = alphaChannel\n        # main layout\n        mainLayout = QHBoxLayout()\n        self.setLayout(mainLayout)\n        # gamut layout",
+        "detail": "src.ColorizerMain",
+        "documentation": {}
+    },
+    {
+        "label": "DropPath",
+        "kind": 6,
+        "importPath": "src.ColorizerModeling",
+        "description": "src.ColorizerModeling",
+        "peekOfCode": "class DropPath(nn.Module):\n    \"\"\"Drop paths (Stochastic Depth) per sample  (when applied in main path of residual blocks).\n    \"\"\"\n    def __init__(self, drop_prob=None):\n        super(DropPath, self).__init__()\n        self.drop_prob = drop_prob\n    def forward(self, x):\n        return drop_path(x, self.drop_prob, self.training)\n    def extra_repr(self) -> str:\n        return 'p={}'.format(self.drop_prob)",
+        "detail": "src.ColorizerModeling",
+        "documentation": {}
+    },
+    {
+        "label": "Mlp",
+        "kind": 6,
+        "importPath": "src.ColorizerModeling",
+        "description": "src.ColorizerModeling",
+        "peekOfCode": "class Mlp(nn.Module):\n    def __init__(self, in_features, hidden_features=None, out_features=None, act_layer=nn.GELU, drop=0.):\n        super().__init__()\n        out_features = out_features or in_features\n        hidden_features = hidden_features or in_features\n        self.fc1 = nn.Linear(in_features, hidden_features)\n        self.act = act_layer()\n        self.fc2 = nn.Linear(hidden_features, out_features)\n        self.drop = nn.Dropout(drop)\n    def forward(self, x):",
+        "detail": "src.ColorizerModeling",
+        "documentation": {}
+    },
+    {
+        "label": "Attention",
+        "kind": 6,
+        "importPath": "src.ColorizerModeling",
+        "description": "src.ColorizerModeling",
+        "peekOfCode": "class Attention(nn.Module):\n    def __init__(self, dim, num_heads=8, qkv_bias=False, qk_scale=None, attn_drop=0.,\n                 proj_drop=0., attn_head_dim=None, use_rpb=False, window_size=14):\n        super().__init__()\n        self.num_heads = num_heads\n        head_dim = dim // num_heads\n        if attn_head_dim is not None:\n            head_dim = attn_head_dim\n        all_head_dim = head_dim * self.num_heads\n        self.scale = qk_scale or head_dim ** -0.5",
+        "detail": "src.ColorizerModeling",
+        "documentation": {}
+    },
+    {
+        "label": "Block",
+        "kind": 6,
+        "importPath": "src.ColorizerModeling",
+        "description": "src.ColorizerModeling",
+        "peekOfCode": "class Block(nn.Module):\n    def __init__(self, dim, num_heads, mlp_ratio=4., qkv_bias=False, qk_scale=None, drop=0., attn_drop=0.,\n                 drop_path=0., init_values=None, act_layer=nn.GELU, norm_layer=nn.LayerNorm,\n                 attn_head_dim=None, use_rpb=False, window_size=14):\n        super().__init__()\n        self.norm1 = norm_layer(dim)\n        self.attn = Attention(\n            dim, num_heads=num_heads, qkv_bias=qkv_bias, qk_scale=qk_scale,\n            attn_drop=attn_drop, proj_drop=drop, attn_head_dim=attn_head_dim,\n            use_rpb=use_rpb, window_size=window_size)",
+        "detail": "src.ColorizerModeling",
+        "documentation": {}
+    },
+    {
+        "label": "PatchEmbed",
+        "kind": 6,
+        "importPath": "src.ColorizerModeling",
+        "description": "src.ColorizerModeling",
+        "peekOfCode": "class PatchEmbed(nn.Module):\n    \"\"\" Image to Patch Embedding\n    \"\"\"\n    def __init__(self, img_size=224, patch_size=16, in_chans=3, embed_dim=768, mask_cent=False):\n        super().__init__()\n        img_size = to_2tuple(img_size)\n        patch_size = to_2tuple(patch_size)\n        num_patches = (img_size[1] // patch_size[1]) * (img_size[0] // patch_size[0])\n        self.patch_shape = (img_size[0] // patch_size[0], img_size[1] // patch_size[1])\n        self.img_size = img_size",
+        "detail": "src.ColorizerModeling",
+        "documentation": {}
+    },
+    {
+        "label": "DoubleConv",
+        "kind": 6,
+        "importPath": "src.ColorizerModeling",
+        "description": "src.ColorizerModeling",
+        "peekOfCode": "class DoubleConv(nn.Module):\n    \"\"\"(convolution => [BN] => ReLU) * 2\"\"\"\n    def __init__(self, in_channels, out_channels, mid_channels=None):\n        super().__init__()\n        if not mid_channels:\n            mid_channels = out_channels\n        self.double_conv = nn.Sequential(\n            nn.Conv2d(in_channels, mid_channels, kernel_size=3, padding=1, bias=False),\n            nn.BatchNorm2d(mid_channels),\n            nn.ReLU(inplace=True),",
+        "detail": "src.ColorizerModeling",
+        "documentation": {}
+    },
+    {
+        "label": "CnnHead",
+        "kind": 6,
+        "importPath": "src.ColorizerModeling",
+        "description": "src.ColorizerModeling",
+        "peekOfCode": "class CnnHead(nn.Module):\n    def __init__(self, embed_dim, num_classes, window_size):\n        super().__init__()\n        self.embed_dim = embed_dim\n        self.num_classes = num_classes\n        self.window_size = window_size\n        self.head = nn.Conv2d(embed_dim, num_classes, kernel_size=3, stride=1, padding=1, padding_mode='reflect')\n    def forward(self, x):\n        x = rearrange(x, 'b (p1 p2) c -> b c p1 p2', p1=self.window_size, p2=self.window_size)\n        x = self.head(x)",
+        "detail": "src.ColorizerModeling",
+        "documentation": {}
+    },
+    {
+        "label": "LocalAttentionHead",
+        "kind": 6,
+        "importPath": "src.ColorizerModeling",
+        "description": "src.ColorizerModeling",
+        "peekOfCode": "class LocalAttentionHead(nn.Module):\n    def __init__(\n            self, dim, out_dim, num_heads=8, qkv_bias=False, qk_scale=None, attn_drop=0.,\n            proj_drop=0., attn_head_dim=None, use_rpb=False, window_size=14):\n        super().__init__()\n        self.num_heads = num_heads\n        head_dim = dim // num_heads\n        if attn_head_dim is not None:\n            head_dim = attn_head_dim\n        all_head_dim = head_dim * self.num_heads",
+        "detail": "src.ColorizerModeling",
+        "documentation": {}
+    },
+    {
+        "label": "IColoriT",
+        "kind": 6,
+        "importPath": "src.ColorizerModeling",
+        "description": "src.ColorizerModeling",
+        "peekOfCode": "class IColoriT(nn.Module):\n    \"\"\" Vision Transformer with support for patch or hybrid CNN input stage\n    \"\"\"\n    def __init__(self, img_size=224, patch_size=16, in_chans=3, num_classes=512, embed_dim=512, depth=12,\n                 num_heads=12, mlp_ratio=4., qkv_bias=False, qk_scale=None, drop_rate=0., attn_drop_rate=0.,\n                 drop_path_rate=0., norm_layer=nn.LayerNorm, init_values=None,\n                 use_rpb=False, avg_hint=False, head_mode='default', mask_cent=False):\n        super().__init__()\n        self.num_classes = num_classes\n        assert num_classes == 2 * patch_size ** 2",
+        "detail": "src.ColorizerModeling",
+        "documentation": {}
+    },
+    {
+        "label": "trunc_normal_",
+        "kind": 2,
+        "importPath": "src.ColorizerModeling",
+        "description": "src.ColorizerModeling",
+        "peekOfCode": "def trunc_normal_(tensor, mean=0., std=1.):\n    __call_trunc_normal_(tensor, mean=mean, std=std, a=-std, b=std)\ndef max_neg_value(tensor):\n    return -torch.finfo(tensor.dtype).max\ndef _cfg(url='', **kwargs):\n    return {\n        'url': url,\n        'num_classes': 1000, 'input_size': (3, 224, 224), 'pool_size': None,\n        'crop_pct': .9, 'interpolation': 'bicubic',\n        'mean': (0.5, 0.5, 0.5), 'std': (0.5, 0.5, 0.5),",
+        "detail": "src.ColorizerModeling",
+        "documentation": {}
+    },
+    {
+        "label": "max_neg_value",
+        "kind": 2,
+        "importPath": "src.ColorizerModeling",
+        "description": "src.ColorizerModeling",
+        "peekOfCode": "def max_neg_value(tensor):\n    return -torch.finfo(tensor.dtype).max\ndef _cfg(url='', **kwargs):\n    return {\n        'url': url,\n        'num_classes': 1000, 'input_size': (3, 224, 224), 'pool_size': None,\n        'crop_pct': .9, 'interpolation': 'bicubic',\n        'mean': (0.5, 0.5, 0.5), 'std': (0.5, 0.5, 0.5),\n        **kwargs\n    }",
+        "detail": "src.ColorizerModeling",
+        "documentation": {}
+    },
+    {
+        "label": "get_sinusoid_encoding_table",
+        "kind": 2,
+        "importPath": "src.ColorizerModeling",
+        "description": "src.ColorizerModeling",
+        "peekOfCode": "def get_sinusoid_encoding_table(n_position, d_hid):\n    ''' Sinusoid position encoding table '''\n    # TODO: make it with torch instead of numpy\n    def get_position_angle_vec(position):\n        return [position / np.power(10000, 2 * (hid_j // 2) / d_hid) for hid_j in range(d_hid)]\n    sinusoid_table = np.array([get_position_angle_vec(pos_i) for pos_i in range(n_position)])\n    sinusoid_table[:, 0::2] = np.sin(sinusoid_table[:, 0::2])  # dim 2i\n    sinusoid_table[:, 1::2] = np.cos(sinusoid_table[:, 1::2])  # dim 2i+1\n    return torch.FloatTensor(sinusoid_table).unsqueeze(0)\n##################################### Colorization #################################",
+        "detail": "src.ColorizerModeling",
+        "documentation": {}
+    },
+    {
+        "label": "icolorit_tiny_4ch_patch8_224",
+        "kind": 2,
+        "importPath": "src.ColorizerModeling",
+        "description": "src.ColorizerModeling",
+        "peekOfCode": "def icolorit_tiny_4ch_patch8_224(pretrained=False, **kwargs):\n    model = IColoriT(\n        num_classes=128,\n        img_size=224,\n        patch_size=8,\n        in_chans=4,\n        embed_dim=192,\n        depth=12,\n        num_heads=3,\n        mlp_ratio=4,",
+        "detail": "src.ColorizerModeling",
+        "documentation": {}
+    },
+    {
+        "label": "icolorit_tiny_4ch_patch16_224",
+        "kind": 2,
+        "importPath": "src.ColorizerModeling",
+        "description": "src.ColorizerModeling",
+        "peekOfCode": "def icolorit_tiny_4ch_patch16_224(pretrained=False, **kwargs):\n    model = IColoriT(\n        num_classes=512,\n        img_size=224,\n        patch_size=16,\n        in_chans=4,\n        embed_dim=192,\n        depth=12,\n        num_heads=3,\n        mlp_ratio=4,",
+        "detail": "src.ColorizerModeling",
+        "documentation": {}
+    },
+    {
+        "label": "icolorit_tiny_4ch_patch32_224",
+        "kind": 2,
+        "importPath": "src.ColorizerModeling",
+        "description": "src.ColorizerModeling",
+        "peekOfCode": "def icolorit_tiny_4ch_patch32_224(pretrained=False, **kwargs):\n    model = IColoriT(\n        num_classes=2048,\n        img_size=224,\n        patch_size=32,\n        in_chans=4,\n        embed_dim=192,\n        depth=12,\n        num_heads=3,\n        mlp_ratio=4,",
+        "detail": "src.ColorizerModeling",
+        "documentation": {}
+    },
+    {
+        "label": "icolorit_small_4ch_patch16_224",
+        "kind": 2,
+        "importPath": "src.ColorizerModeling",
+        "description": "src.ColorizerModeling",
+        "peekOfCode": "def icolorit_small_4ch_patch16_224(pretrained=False, **kwargs):\n    model = IColoriT(\n        img_size=224,\n        patch_size=16,\n        in_chans=4,\n        embed_dim=384,\n        depth=12,\n        num_heads=6,\n        mlp_ratio=4,\n        qkv_bias=True,",
+        "detail": "src.ColorizerModeling",
+        "documentation": {}
+    },
+    {
+        "label": "icolorit_base_4ch_patch16_224",
+        "kind": 2,
+        "importPath": "src.ColorizerModeling",
+        "description": "src.ColorizerModeling",
+        "peekOfCode": "def icolorit_base_4ch_patch16_224(pretrained=False, **kwargs):\n    model = IColoriT(\n        num_classes=512,\n        img_size=224,\n        patch_size=16,\n        in_chans=4,\n        embed_dim=768,\n        depth=12,\n        num_heads=12,\n        mlp_ratio=4,",
+        "detail": "src.ColorizerModeling",
+        "documentation": {}
+    },
+    {
+        "label": "GUIPalette",
+        "kind": 6,
+        "importPath": "src.ColorizerPalette",
+        "description": "src.ColorizerPalette",
+        "peekOfCode": "class GUIPalette(QWidget):\n    update_color = pyqtSignal(object)\n    def __init__(self, grid_sz=(6, 3)):\n        QWidget.__init__(self)\n        self.color_width = 25\n        self.border = 6\n        self.win_width = grid_sz[0] * self.color_width + (grid_sz[0] + 1) * self.border\n        self.win_height = grid_sz[1] * self.color_width + (grid_sz[1] + 1) * self.border\n        self.setFixedSize(self.win_width, self.win_height)\n        self.num_colors = grid_sz[0] * grid_sz[1]",
+        "detail": "src.ColorizerPalette",
+        "documentation": {}
+    },
+    {
+        "label": "UserEdit",
+        "kind": 6,
+        "importPath": "src.ColorizerUiControl",
+        "description": "src.ColorizerUiControl",
+        "peekOfCode": "class UserEdit(object):\n    def __init__(self, mode, win_size, load_size, img_size):\n        self.mode = mode\n        self.win_size = win_size\n        self.img_size = img_size\n        self.load_size = load_size\n        print('image_size', self.img_size)\n        max_width = np.max(self.img_size)\n        self.scale = float(max_width) / self.load_size # original image to 224 ration\n        self.dw = int((self.win_size - img_size[0]) // 2)",
+        "detail": "src.ColorizerUiControl",
+        "documentation": {}
+    },
+    {
+        "label": "PointEdit",
+        "kind": 6,
+        "importPath": "src.ColorizerUiControl",
+        "description": "src.ColorizerUiControl",
+        "peekOfCode": "class PointEdit(UserEdit):\n    def __init__(self, win_size, load_size, img_size):\n        UserEdit.__init__(self, 'point', win_size, load_size, img_size)\n    def add(self, pnt, color, userColor, width, ui_count):\n        self.pnt = pnt\n        self.color = color\n        self.userColor = userColor\n        self.width = width\n        self.ui_count = ui_count\n    def select_old(self, pnt, ui_count):",
+        "detail": "src.ColorizerUiControl",
+        "documentation": {}
+    },
+    {
+        "label": "UIControl",
+        "kind": 6,
+        "importPath": "src.ColorizerUiControl",
+        "description": "src.ColorizerUiControl",
+        "peekOfCode": "class UIControl:\n    def __init__(self, win_size=256, load_size=224):\n        self.win_size = win_size\n        self.load_size = load_size\n        self.reset()\n        self.userEdit = None\n        self.userEdits = []\n        self.ui_count = 0\n    def setImageSize(self, img_size):\n        self.img_size = img_size",
+        "detail": "src.ColorizerUiControl",
+        "documentation": {}
+    },
+    {
+        "label": "load_img",
+        "kind": 2,
+        "importPath": "src.ColorizerUtil",
+        "description": "src.ColorizerUtil",
+        "peekOfCode": "def load_img(PILImage):\n\tout_np = np.asarray(PILImage)\n\tif(out_np.ndim==2):\n\t\tout_np = np.tile(out_np[:,:,None],3)\n\treturn out_np\ndef resize_img(img, HW=(256,256), resample=3):\n\treturn np.asarray(Image.fromarray(img).resize((HW[1],HW[0]), resample=resample))\ndef preprocess_img(img_rgb_orig, HW=(256,256), resample=3):\n\t# return original size L and resized L as torch Tensors\n\timg_rgb_rs = resize_img(img_rgb_orig, HW=HW, resample=resample)",
+        "detail": "src.ColorizerUtil",
+        "documentation": {}
+    },
+    {
+        "label": "resize_img",
+        "kind": 2,
+        "importPath": "src.ColorizerUtil",
+        "description": "src.ColorizerUtil",
+        "peekOfCode": "def resize_img(img, HW=(256,256), resample=3):\n\treturn np.asarray(Image.fromarray(img).resize((HW[1],HW[0]), resample=resample))\ndef preprocess_img(img_rgb_orig, HW=(256,256), resample=3):\n\t# return original size L and resized L as torch Tensors\n\timg_rgb_rs = resize_img(img_rgb_orig, HW=HW, resample=resample)\n\timg_lab_orig = color.rgb2lab(img_rgb_orig)\n\timg_lab_rs = color.rgb2lab(img_rgb_rs)\n\timg_l_orig = img_lab_orig[:,:,0]\n\timg_l_rs = img_lab_rs[:,:,0]\n\ttens_orig_l = torch.Tensor(img_l_orig)[None,None,:,:]",
+        "detail": "src.ColorizerUtil",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_img",
+        "kind": 2,
+        "importPath": "src.ColorizerUtil",
+        "description": "src.ColorizerUtil",
+        "peekOfCode": "def preprocess_img(img_rgb_orig, HW=(256,256), resample=3):\n\t# return original size L and resized L as torch Tensors\n\timg_rgb_rs = resize_img(img_rgb_orig, HW=HW, resample=resample)\n\timg_lab_orig = color.rgb2lab(img_rgb_orig)\n\timg_lab_rs = color.rgb2lab(img_rgb_rs)\n\timg_l_orig = img_lab_orig[:,:,0]\n\timg_l_rs = img_lab_rs[:,:,0]\n\ttens_orig_l = torch.Tensor(img_l_orig)[None,None,:,:]\n\ttens_rs_l = torch.Tensor(img_l_rs)[None,None,:,:]\n\treturn (tens_orig_l, tens_rs_l)",
+        "detail": "src.ColorizerUtil",
+        "documentation": {}
+    },
+    {
+        "label": "postprocess_tens",
+        "kind": 2,
+        "importPath": "src.ColorizerUtil",
+        "description": "src.ColorizerUtil",
+        "peekOfCode": "def postprocess_tens(tens_orig_l, out_ab, mode='bilinear'):\n\t# tens_orig_l \t1 x 1 x H_orig x W_orig\n\t# out_ab \t\t1 x 2 x H x W\n\tHW_orig = tens_orig_l.shape[2:]\n\tHW = out_ab.shape[2:]\n\t# call resize function if needed\n\tif(HW_orig[0]!=HW[0] or HW_orig[1]!=HW[1]):\n\t\tout_ab_orig = F.interpolate(out_ab, size=HW_orig, mode='bilinear')\n\telse:\n\t\tout_ab_orig = out_ab",
+        "detail": "src.ColorizerUtil",
+        "documentation": {}
+    },
+    {
+        "label": "\tout_np",
+        "kind": 5,
+        "importPath": "src.ColorizerUtil",
+        "description": "src.ColorizerUtil",
+        "peekOfCode": "\tout_np = np.asarray(PILImage)\n\tif(out_np.ndim==2):\n\t\tout_np = np.tile(out_np[:,:,None],3)\n\treturn out_np\ndef resize_img(img, HW=(256,256), resample=3):\n\treturn np.asarray(Image.fromarray(img).resize((HW[1],HW[0]), resample=resample))\ndef preprocess_img(img_rgb_orig, HW=(256,256), resample=3):\n\t# return original size L and resized L as torch Tensors\n\timg_rgb_rs = resize_img(img_rgb_orig, HW=HW, resample=resample)\n\timg_lab_orig = color.rgb2lab(img_rgb_orig)",
+        "detail": "src.ColorizerUtil",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tout_np",
+        "kind": 5,
+        "importPath": "src.ColorizerUtil",
+        "description": "src.ColorizerUtil",
+        "peekOfCode": "\t\tout_np = np.tile(out_np[:,:,None],3)\n\treturn out_np\ndef resize_img(img, HW=(256,256), resample=3):\n\treturn np.asarray(Image.fromarray(img).resize((HW[1],HW[0]), resample=resample))\ndef preprocess_img(img_rgb_orig, HW=(256,256), resample=3):\n\t# return original size L and resized L as torch Tensors\n\timg_rgb_rs = resize_img(img_rgb_orig, HW=HW, resample=resample)\n\timg_lab_orig = color.rgb2lab(img_rgb_orig)\n\timg_lab_rs = color.rgb2lab(img_rgb_rs)\n\timg_l_orig = img_lab_orig[:,:,0]",
+        "detail": "src.ColorizerUtil",
+        "documentation": {}
+    },
+    {
+        "label": "\timg_rgb_rs",
+        "kind": 5,
+        "importPath": "src.ColorizerUtil",
+        "description": "src.ColorizerUtil",
+        "peekOfCode": "\timg_rgb_rs = resize_img(img_rgb_orig, HW=HW, resample=resample)\n\timg_lab_orig = color.rgb2lab(img_rgb_orig)\n\timg_lab_rs = color.rgb2lab(img_rgb_rs)\n\timg_l_orig = img_lab_orig[:,:,0]\n\timg_l_rs = img_lab_rs[:,:,0]\n\ttens_orig_l = torch.Tensor(img_l_orig)[None,None,:,:]\n\ttens_rs_l = torch.Tensor(img_l_rs)[None,None,:,:]\n\treturn (tens_orig_l, tens_rs_l)\ndef postprocess_tens(tens_orig_l, out_ab, mode='bilinear'):\n\t# tens_orig_l \t1 x 1 x H_orig x W_orig",
+        "detail": "src.ColorizerUtil",
+        "documentation": {}
+    },
+    {
+        "label": "\timg_lab_orig",
+        "kind": 5,
+        "importPath": "src.ColorizerUtil",
+        "description": "src.ColorizerUtil",
+        "peekOfCode": "\timg_lab_orig = color.rgb2lab(img_rgb_orig)\n\timg_lab_rs = color.rgb2lab(img_rgb_rs)\n\timg_l_orig = img_lab_orig[:,:,0]\n\timg_l_rs = img_lab_rs[:,:,0]\n\ttens_orig_l = torch.Tensor(img_l_orig)[None,None,:,:]\n\ttens_rs_l = torch.Tensor(img_l_rs)[None,None,:,:]\n\treturn (tens_orig_l, tens_rs_l)\ndef postprocess_tens(tens_orig_l, out_ab, mode='bilinear'):\n\t# tens_orig_l \t1 x 1 x H_orig x W_orig\n\t# out_ab \t\t1 x 2 x H x W",
+        "detail": "src.ColorizerUtil",
+        "documentation": {}
+    },
+    {
+        "label": "\timg_lab_rs",
+        "kind": 5,
+        "importPath": "src.ColorizerUtil",
+        "description": "src.ColorizerUtil",
+        "peekOfCode": "\timg_lab_rs = color.rgb2lab(img_rgb_rs)\n\timg_l_orig = img_lab_orig[:,:,0]\n\timg_l_rs = img_lab_rs[:,:,0]\n\ttens_orig_l = torch.Tensor(img_l_orig)[None,None,:,:]\n\ttens_rs_l = torch.Tensor(img_l_rs)[None,None,:,:]\n\treturn (tens_orig_l, tens_rs_l)\ndef postprocess_tens(tens_orig_l, out_ab, mode='bilinear'):\n\t# tens_orig_l \t1 x 1 x H_orig x W_orig\n\t# out_ab \t\t1 x 2 x H x W\n\tHW_orig = tens_orig_l.shape[2:]",
+        "detail": "src.ColorizerUtil",
+        "documentation": {}
+    },
+    {
+        "label": "\timg_l_orig",
+        "kind": 5,
+        "importPath": "src.ColorizerUtil",
+        "description": "src.ColorizerUtil",
+        "peekOfCode": "\timg_l_orig = img_lab_orig[:,:,0]\n\timg_l_rs = img_lab_rs[:,:,0]\n\ttens_orig_l = torch.Tensor(img_l_orig)[None,None,:,:]\n\ttens_rs_l = torch.Tensor(img_l_rs)[None,None,:,:]\n\treturn (tens_orig_l, tens_rs_l)\ndef postprocess_tens(tens_orig_l, out_ab, mode='bilinear'):\n\t# tens_orig_l \t1 x 1 x H_orig x W_orig\n\t# out_ab \t\t1 x 2 x H x W\n\tHW_orig = tens_orig_l.shape[2:]\n\tHW = out_ab.shape[2:]",
+        "detail": "src.ColorizerUtil",
+        "documentation": {}
+    },
+    {
+        "label": "\timg_l_rs",
+        "kind": 5,
+        "importPath": "src.ColorizerUtil",
+        "description": "src.ColorizerUtil",
+        "peekOfCode": "\timg_l_rs = img_lab_rs[:,:,0]\n\ttens_orig_l = torch.Tensor(img_l_orig)[None,None,:,:]\n\ttens_rs_l = torch.Tensor(img_l_rs)[None,None,:,:]\n\treturn (tens_orig_l, tens_rs_l)\ndef postprocess_tens(tens_orig_l, out_ab, mode='bilinear'):\n\t# tens_orig_l \t1 x 1 x H_orig x W_orig\n\t# out_ab \t\t1 x 2 x H x W\n\tHW_orig = tens_orig_l.shape[2:]\n\tHW = out_ab.shape[2:]\n\t# call resize function if needed",
+        "detail": "src.ColorizerUtil",
+        "documentation": {}
+    },
+    {
+        "label": "\ttens_orig_l",
+        "kind": 5,
+        "importPath": "src.ColorizerUtil",
+        "description": "src.ColorizerUtil",
+        "peekOfCode": "\ttens_orig_l = torch.Tensor(img_l_orig)[None,None,:,:]\n\ttens_rs_l = torch.Tensor(img_l_rs)[None,None,:,:]\n\treturn (tens_orig_l, tens_rs_l)\ndef postprocess_tens(tens_orig_l, out_ab, mode='bilinear'):\n\t# tens_orig_l \t1 x 1 x H_orig x W_orig\n\t# out_ab \t\t1 x 2 x H x W\n\tHW_orig = tens_orig_l.shape[2:]\n\tHW = out_ab.shape[2:]\n\t# call resize function if needed\n\tif(HW_orig[0]!=HW[0] or HW_orig[1]!=HW[1]):",
+        "detail": "src.ColorizerUtil",
+        "documentation": {}
+    },
+    {
+        "label": "\ttens_rs_l",
+        "kind": 5,
+        "importPath": "src.ColorizerUtil",
+        "description": "src.ColorizerUtil",
+        "peekOfCode": "\ttens_rs_l = torch.Tensor(img_l_rs)[None,None,:,:]\n\treturn (tens_orig_l, tens_rs_l)\ndef postprocess_tens(tens_orig_l, out_ab, mode='bilinear'):\n\t# tens_orig_l \t1 x 1 x H_orig x W_orig\n\t# out_ab \t\t1 x 2 x H x W\n\tHW_orig = tens_orig_l.shape[2:]\n\tHW = out_ab.shape[2:]\n\t# call resize function if needed\n\tif(HW_orig[0]!=HW[0] or HW_orig[1]!=HW[1]):\n\t\tout_ab_orig = F.interpolate(out_ab, size=HW_orig, mode='bilinear')",
+        "detail": "src.ColorizerUtil",
+        "documentation": {}
+    },
+    {
+        "label": "\tHW_orig",
+        "kind": 5,
+        "importPath": "src.ColorizerUtil",
+        "description": "src.ColorizerUtil",
+        "peekOfCode": "\tHW_orig = tens_orig_l.shape[2:]\n\tHW = out_ab.shape[2:]\n\t# call resize function if needed\n\tif(HW_orig[0]!=HW[0] or HW_orig[1]!=HW[1]):\n\t\tout_ab_orig = F.interpolate(out_ab, size=HW_orig, mode='bilinear')\n\telse:\n\t\tout_ab_orig = out_ab\n\tout_lab_orig = torch.cat((tens_orig_l, out_ab_orig), dim=1)\n\treturn color.lab2rgb(out_lab_orig.data.cpu().numpy()[0,...].transpose((1,2,0)))",
+        "detail": "src.ColorizerUtil",
+        "documentation": {}
+    },
+    {
+        "label": "\tHW",
+        "kind": 5,
+        "importPath": "src.ColorizerUtil",
+        "description": "src.ColorizerUtil",
+        "peekOfCode": "\tHW = out_ab.shape[2:]\n\t# call resize function if needed\n\tif(HW_orig[0]!=HW[0] or HW_orig[1]!=HW[1]):\n\t\tout_ab_orig = F.interpolate(out_ab, size=HW_orig, mode='bilinear')\n\telse:\n\t\tout_ab_orig = out_ab\n\tout_lab_orig = torch.cat((tens_orig_l, out_ab_orig), dim=1)\n\treturn color.lab2rgb(out_lab_orig.data.cpu().numpy()[0,...].transpose((1,2,0)))",
+        "detail": "src.ColorizerUtil",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tout_ab_orig",
+        "kind": 5,
+        "importPath": "src.ColorizerUtil",
+        "description": "src.ColorizerUtil",
+        "peekOfCode": "\t\tout_ab_orig = F.interpolate(out_ab, size=HW_orig, mode='bilinear')\n\telse:\n\t\tout_ab_orig = out_ab\n\tout_lab_orig = torch.cat((tens_orig_l, out_ab_orig), dim=1)\n\treturn color.lab2rgb(out_lab_orig.data.cpu().numpy()[0,...].transpose((1,2,0)))",
+        "detail": "src.ColorizerUtil",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tout_ab_orig",
+        "kind": 5,
+        "importPath": "src.ColorizerUtil",
+        "description": "src.ColorizerUtil",
+        "peekOfCode": "\t\tout_ab_orig = out_ab\n\tout_lab_orig = torch.cat((tens_orig_l, out_ab_orig), dim=1)\n\treturn color.lab2rgb(out_lab_orig.data.cpu().numpy()[0,...].transpose((1,2,0)))",
+        "detail": "src.ColorizerUtil",
+        "documentation": {}
+    },
+    {
+        "label": "\tout_lab_orig",
+        "kind": 5,
+        "importPath": "src.ColorizerUtil",
+        "description": "src.ColorizerUtil",
+        "peekOfCode": "\tout_lab_orig = torch.cat((tens_orig_l, out_ab_orig), dim=1)\n\treturn color.lab2rgb(out_lab_orig.data.cpu().numpy()[0,...].transpose((1,2,0)))",
+        "detail": "src.ColorizerUtil",
+        "documentation": {}
+    },
+    {
+        "label": "GUI_VIS",
+        "kind": 6,
+        "importPath": "src.ColorizerVis",
+        "description": "src.ColorizerVis",
+        "peekOfCode": "class GUI_VIS(QWidget):\n    def __init__(self, win_size=256, scale=2.0):\n        QWidget.__init__(self)\n        self.result = None\n        self.win_width = win_size\n        self.win_height = win_size\n        self.scale = scale\n        self.setFixedSize(self.win_width, self.win_height)\n    def paintEvent(self, event):\n        painter = QPainter()",
+        "detail": "src.ColorizerVis",
+        "documentation": {}
+    },
+    {
+        "label": "split_file",
+        "kind": 2,
+        "importPath": "src.FileUtils",
+        "description": "src.FileUtils",
+        "peekOfCode": "def split_file(path, chunk_size=50000000):\n    file_number = 1\n    filename = os.path.basename(path)\n    with open(path, 'rb') as f:\n        chunk = f.read(chunk_size)\n        while chunk:\n            with open(os.path.join(os.path.dirname(path), filename + \".part\" + str(file_number)), 'wb') as chunk_file:\n                chunk_file.write(chunk)\n            file_number += 1\n            chunk = f.read(chunk_size)",
+        "detail": "src.FileUtils",
+        "documentation": {}
+    },
+    {
+        "label": "merge_files",
+        "kind": 2,
+        "importPath": "src.FileUtils",
+        "description": "src.FileUtils",
+        "peekOfCode": "def merge_files(prefix, dirname):\n    '''\n    Each file has a .part<num> suffix\n    prefix: The name of the output merged file\n    dirname: Directory containing the split files to be merged\n    This function will find all the parts and merge them\n    '''\n    files = glob.glob(os.path.join(dirname, prefix) + \"*\")\n    files = list(files)\n    files_sorted = []",
+        "detail": "src.FileUtils",
+        "documentation": {}
+    },
+    {
+        "label": "InsufficientImagesError",
+        "kind": 6,
+        "importPath": "src.ImageStitching",
+        "description": "src.ImageStitching",
+        "peekOfCode": "class InsufficientImagesError(Exception):\n    \"\"\"Exception class that can be called when there is insufficient number of images.\n    Args:\n        num_images (int): number of images (this is just used to display in the message)\n    \"\"\"\n    def __init__(self, num_images):\n        msg = \"Expected 2 or more images but got only \" +  str(num_images)\n        super(InsufficientImagesError, self).__init__(msg)\nclass InvalidImageFilesError(Exception):\n    \"\"\"Exception class that can be called when files ar invalid image files or they do not exist.",
+        "detail": "src.ImageStitching",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidImageFilesError",
+        "kind": 6,
+        "importPath": "src.ImageStitching",
+        "description": "src.ImageStitching",
+        "peekOfCode": "class InvalidImageFilesError(Exception):\n    \"\"\"Exception class that can be called when files ar invalid image files or they do not exist.\n    Args:\n        msg (str): Error description\n    \"\"\"\n    def __init__(self, msg):\n        super(InvalidImageFilesError, self).__init__(msg)\nclass NotEnoughMatchPointsError(Exception):\n    \"\"\"Exception class that can be called when there are not enough matches points between images\n        as defined by the mimimum",
+        "detail": "src.ImageStitching",
+        "documentation": {}
+    },
+    {
+        "label": "NotEnoughMatchPointsError",
+        "kind": 6,
+        "importPath": "src.ImageStitching",
+        "description": "src.ImageStitching",
+        "peekOfCode": "class NotEnoughMatchPointsError(Exception):\n    \"\"\"Exception class that can be called when there are not enough matches points between images\n        as defined by the mimimum\n    Args:\n        num_match_points (int): number of matches found\n        min_match_points_req (int): minimum number of match points between images required \n    \"\"\"\n    def __init__(self, num_match_points, min_match_points_req):\n        msg = \"There are not enough match points between images in the input images. Required atleast \" + \\\n               str(min_match_points_req) + \" matches but could find only \" + str(num_match_points) + \" matches!\"",
+        "detail": "src.ImageStitching",
+        "documentation": {}
+    },
+    {
+        "label": "MatchesNotConfident",
+        "kind": 6,
+        "importPath": "src.ImageStitching",
+        "description": "src.ImageStitching",
+        "peekOfCode": "class MatchesNotConfident(Exception):\n    \"\"\"Exception class that can be called when the outliers matches count to all matches count ratio is\n        above a minimum threshold to calculate the homography matrix confidently.\n    Args:\n        confidence (int): percentage indicating the confidence of match points \n    \"\"\"\n    def __init__(self, confidence):\n        msg = \"The confidence in the matches is less than the defined threshold and hence the stitching operation \\\n        cannot be performed. Perhaps the input images have very less overlapping content to detect good match points!\"\n        super(MatchesNotConfident, self).__init__(msg + \" Confidence: \" + str(confidence))",
+        "detail": "src.ImageStitching",
+        "documentation": {}
+    },
+    {
+        "label": "get_matches",
+        "kind": 2,
+        "importPath": "src.ImageStitching",
+        "description": "src.ImageStitching",
+        "peekOfCode": "def get_matches(img_a_gray, img_b_gray, num_keypoints=1000, threshold=0.5):\n    '''Function to get matched keypoints from two images using ORB\n    Args:\n        img_a_gray (numpy array): of shape (H, W) representing grayscale image A\n        img_b_gray (numpy array): of shape (H, W) representing grayscale image B\n        num_keypoints (int): number of points to be matched (default=100)\n        threshold (float): can be used to filter strong matches only. Lower the value, stronger the requirements and hence fewer matches.\n    Returns:\n        match_points_a (numpy array): of shape (n, 2) representing x,y pixel coordinates of image A keypoints\n        match_points_b (numpy array): of shape (n, 2) representing x,y pixel coordianted of matched keypoints in image B",
+        "detail": "src.ImageStitching",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_homography",
+        "kind": 2,
+        "importPath": "src.ImageStitching",
+        "description": "src.ImageStitching",
+        "peekOfCode": "def calculate_homography(points_img_a, points_img_b):\n    # concatenate the two numpy points array to get 4 columns (u, v, x, y)\n    points_a_and_b = np.concatenate((points_img_a, points_img_b), axis=1)\n    A = []\n    # fill the A matrix by looping through each row of points_a_and_b containing u, v, x, y\n    # each row in the points_ab would fill two rows in the A matrix\n    for u, v, x, y in points_a_and_b:\n        A.append([-x, -y, -1, 0, 0, 0, u*x, u*y, u])\n        A.append([0, 0, 0, -x, -y, -1, v*x, v*y, v])\n    A = np.array(A)",
+        "detail": "src.ImageStitching",
+        "documentation": {}
+    },
+    {
+        "label": "transform_with_homography",
+        "kind": 2,
+        "importPath": "src.ImageStitching",
+        "description": "src.ImageStitching",
+        "peekOfCode": "def transform_with_homography(h_mat, points_array):\n    # add column of ones so that matrix multiplication with homography matrix is possible\n    ones_col = np.ones((points_array.shape[0], 1))\n    points_array = np.concatenate((points_array, ones_col), axis=1)\n    transformed_points = np.matmul(h_mat, points_array.T)\n    epsilon = 1e-7 # very small value to use it during normalization to avoid division by zero\n    transformed_points = transformed_points / (transformed_points[2,:].reshape(1,-1) + epsilon)\n    transformed_points = transformed_points[0:2,:].T\n    return transformed_points\ndef compute_outliers(h_mat, points_img_a, points_img_b, threshold=3):",
+        "detail": "src.ImageStitching",
+        "documentation": {}
+    },
+    {
+        "label": "compute_outliers",
+        "kind": 2,
+        "importPath": "src.ImageStitching",
+        "description": "src.ImageStitching",
+        "peekOfCode": "def compute_outliers(h_mat, points_img_a, points_img_b, threshold=3):\n    num_points = points_img_a.shape[0]\n    outliers_count = 0\n    # transform the match point in image B to image A using the homography\n    points_img_b_hat = transform_with_homography(h_mat, points_img_b)\n    # let x, y be coordinate representation of points in image A\n    # let x_hat, y_hat be the coordinate representation of transformed points of image B with respect to image A\n    x = points_img_a[:, 0]\n    y = points_img_a[:, 1]\n    x_hat = points_img_b_hat[:, 0]",
+        "detail": "src.ImageStitching",
+        "documentation": {}
+    },
+    {
+        "label": "compute_homography_ransac",
+        "kind": 2,
+        "importPath": "src.ImageStitching",
+        "description": "src.ImageStitching",
+        "peekOfCode": "def compute_homography_ransac(matches_a, matches_b):\n    num_all_matches =  matches_a.shape[0]\n    # RANSAC parameters\n    SAMPLE_SIZE = 5 #number of point correspondances for estimation of Homgraphy\n    SUCCESS_PROB = 0.995 #required probabilty of finding H with all samples being inliners \n    min_iterations = int(np.log(1.0 - SUCCESS_PROB)/np.log(1 - 0.5**SAMPLE_SIZE))\n    # Let the initial error be large i.e consider all matched points as outliers\n    lowest_outliers_count = num_all_matches\n    best_h_mat = None\n    best_i = 0 # just to know in which iteration the best h_mat was found",
+        "detail": "src.ImageStitching",
+        "documentation": {}
+    },
+    {
+        "label": "get_corners_as_array",
+        "kind": 2,
+        "importPath": "src.ImageStitching",
+        "description": "src.ImageStitching",
+        "peekOfCode": "def get_corners_as_array(img_height, img_width):\n    corners_array = np.array([[0, 0],\n                            [img_width - 1, 0],\n                            [img_width - 1, img_height - 1],\n                            [0, img_height - 1]])\n    return corners_array\ndef get_crop_points_horz(img_a_h, transfmd_corners_img_b):\n    # the four transformed corners of image B\n    top_lft_x_hat, top_lft_y_hat = transfmd_corners_img_b[0, :]\n    top_rht_x_hat, top_rht_y_hat = transfmd_corners_img_b[1, :]",
+        "detail": "src.ImageStitching",
+        "documentation": {}
+    },
+    {
+        "label": "get_crop_points_horz",
+        "kind": 2,
+        "importPath": "src.ImageStitching",
+        "description": "src.ImageStitching",
+        "peekOfCode": "def get_crop_points_horz(img_a_h, transfmd_corners_img_b):\n    # the four transformed corners of image B\n    top_lft_x_hat, top_lft_y_hat = transfmd_corners_img_b[0, :]\n    top_rht_x_hat, top_rht_y_hat = transfmd_corners_img_b[1, :]\n    btm_rht_x_hat, btm_rht_y_hat = transfmd_corners_img_b[2, :]\n    btm_lft_x_hat, btm_lft_y_hat = transfmd_corners_img_b[3, :]\n    # initialize the crop points\n    # since image A (on the left side) is used as pivot, x_start will always be zero\n    x_start, y_start, x_end, y_end = (0, None, None, None)\n    if (top_lft_y_hat > 0) and (top_lft_y_hat > top_rht_y_hat):",
+        "detail": "src.ImageStitching",
+        "documentation": {}
+    },
+    {
+        "label": "get_crop_points_vert",
+        "kind": 2,
+        "importPath": "src.ImageStitching",
+        "description": "src.ImageStitching",
+        "peekOfCode": "def get_crop_points_vert(img_a_w, transfmd_corners_img_b):\n    # the four transformed corners of image B\n    top_lft_x_hat, top_lft_y_hat = transfmd_corners_img_b[0, :]\n    top_rht_x_hat, top_rht_y_hat = transfmd_corners_img_b[1, :]\n    btm_rht_x_hat, btm_rht_y_hat = transfmd_corners_img_b[2, :]\n    btm_lft_x_hat, btm_lft_y_hat = transfmd_corners_img_b[3, :]\n    # initialize the crop points\n    # since image A (on the top) is used as pivot, y_start will always be zero\n    x_start, y_start, x_end, y_end = (None, 0, None, None)\n    if (top_lft_x_hat > 0) and (top_lft_x_hat > btm_lft_x_hat):",
+        "detail": "src.ImageStitching",
+        "documentation": {}
+    },
+    {
+        "label": "get_crop_points",
+        "kind": 2,
+        "importPath": "src.ImageStitching",
+        "description": "src.ImageStitching",
+        "peekOfCode": "def get_crop_points(h_mat, img_a, img_b, stitch_direc):\n    img_a_h, img_a_w, _ = img_a.shape\n    img_b_h, img_b_w, _ = img_b.shape\n    orig_corners_img_b = get_corners_as_array(img_b_h, img_b_w)\n    transfmd_corners_img_b = transform_with_homography(h_mat, orig_corners_img_b)\n    if stitch_direc == 1:\n        x_start, y_start, x_end, y_end = get_crop_points_horz(img_a_w, transfmd_corners_img_b)\n    # initialize the crop points\n    x_start = None\n    x_end = None",
+        "detail": "src.ImageStitching",
+        "documentation": {}
+    },
+    {
+        "label": "stitch_image_pair",
+        "kind": 2,
+        "importPath": "src.ImageStitching",
+        "description": "src.ImageStitching",
+        "peekOfCode": "def stitch_image_pair(img_a, img_b, stitch_direc):\n    img_a_gray = cv2.cvtColor(img_a, cv2.COLOR_BGR2GRAY)\n    img_b_gray = cv2.cvtColor(img_b, cv2.COLOR_BGR2GRAY)\n    matches_a, matches_b = get_matches(img_a_gray, img_b_gray, num_keypoints=1000, threshold=0.8)\n    h_mat = compute_homography_ransac(matches_a, matches_b)\n    if stitch_direc == 0:\n        canvas = cv2.warpPerspective(img_b, h_mat, (img_a.shape[1], img_a.shape[0] + img_b.shape[0]))\n        canvas[0:img_a.shape[0], :, :] = img_a[:, :, :]\n        x_start, y_start, x_end, y_end = get_crop_points(h_mat, img_a, img_b, 0)\n    else:",
+        "detail": "src.ImageStitching",
+        "documentation": {}
+    },
+    {
+        "label": "check_imgfile_validity",
+        "kind": 2,
+        "importPath": "src.ImageStitching",
+        "description": "src.ImageStitching",
+        "peekOfCode": "def check_imgfile_validity(folder, filenames):\n    for file in filenames:\n        full_file_path = os.path.join(folder, file)\n        regex = \"([^\\\\s]+(\\\\.(?i:(jpe?g|png)))$)\"\n        p = re.compile(regex)\n        if not os.path.isfile(full_file_path):\n            return False, \"File not found: \" + full_file_path\n        if not (re.search(p, file)):\n            return False, \"Invalid image file: \" + file\n    return True, None",
+        "detail": "src.ImageStitching",
+        "documentation": {}
+    },
+    {
+        "label": "stitch_images",
+        "kind": 2,
+        "importPath": "src.ImageStitching",
+        "description": "src.ImageStitching",
+        "peekOfCode": "def stitch_images(image_folder, image_filenames, stitch_direction):\n    num_images = len(image_filenames)\n    if num_images < 2:\n        raise(InsufficientImagesError(num_images))\n    valid_files, file_error_msg = check_imgfile_validity(image_folder, image_filenames)\n    if not valid_files:\n        raise(InvalidImageFilesError(file_error_msg))\n    pivot_img_path = os.path.join(image_folder, image_filenames[0])\n    pivot_img = cv2.imread(pivot_img_path)\n    for i in range(1, num_images, 1):",
+        "detail": "src.ImageStitching",
+        "documentation": {}
+    },
+    {
+        "label": "stitch_images_and_save",
+        "kind": 2,
+        "importPath": "src.ImageStitching",
+        "description": "src.ImageStitching",
+        "peekOfCode": "def stitch_images_and_save(image_folder, image_filenames, stitch_direction, output_folder=None):\n    timestr = time.strftime(\"%Y%m%d_%H%M%S\")\n    filename = \"stitched_image_\" + timestr + \".jpg\"\n    stitched_img = stitch_images(image_folder, image_filenames, stitch_direction)\n    if output_folder is None:\n        if not os.path.isdir(\"output\"):\n            os.makedirs(\"output/\")\n        output_folder = \"output\"\n    full_save_path = os.path.join(output_folder, filename)\n    _ = cv2.imwrite(full_save_path, stitched_img)",
+        "detail": "src.ImageStitching",
+        "documentation": {}
+    },
+    {
+        "label": "MINIMUM_MATCH_POINTS",
+        "kind": 5,
+        "importPath": "src.ImageStitching",
+        "description": "src.ImageStitching",
+        "peekOfCode": "MINIMUM_MATCH_POINTS = 20\nCONFIDENCE_THRESH = 50 # confidence percentage threshold of match points used for homography computation\ndef get_matches(img_a_gray, img_b_gray, num_keypoints=1000, threshold=0.5):\n    '''Function to get matched keypoints from two images using ORB\n    Args:\n        img_a_gray (numpy array): of shape (H, W) representing grayscale image A\n        img_b_gray (numpy array): of shape (H, W) representing grayscale image B\n        num_keypoints (int): number of points to be matched (default=100)\n        threshold (float): can be used to filter strong matches only. Lower the value, stronger the requirements and hence fewer matches.\n    Returns:",
+        "detail": "src.ImageStitching",
+        "documentation": {}
+    },
+    {
+        "label": "CONFIDENCE_THRESH",
+        "kind": 5,
+        "importPath": "src.ImageStitching",
+        "description": "src.ImageStitching",
+        "peekOfCode": "CONFIDENCE_THRESH = 50 # confidence percentage threshold of match points used for homography computation\ndef get_matches(img_a_gray, img_b_gray, num_keypoints=1000, threshold=0.5):\n    '''Function to get matched keypoints from two images using ORB\n    Args:\n        img_a_gray (numpy array): of shape (H, W) representing grayscale image A\n        img_b_gray (numpy array): of shape (H, W) representing grayscale image B\n        num_keypoints (int): number of points to be matched (default=100)\n        threshold (float): can be used to filter strong matches only. Lower the value, stronger the requirements and hence fewer matches.\n    Returns:\n        match_points_a (numpy array): of shape (n, 2) representing x,y pixel coordinates of image A keypoints",
+        "detail": "src.ImageStitching",
+        "documentation": {}
+    },
+    {
+        "label": "HelpWindow",
+        "kind": 6,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "class HelpWindow(QtWidgets.QWidget):\n    def __init__(self):\n        super().__init__()\n        layout = QtWidgets.QVBoxLayout()\n        self.label = QLabel('''HERE ARE THE KEYBOARD SHORTCUTS:-\n                    CTRL + N             For uploading new image \n                    CTRL + S             For saving new image\n                    CTRL + SHIFT + S     For saving as newly edited image\n                    CTRL + Z             For undoing a mistake\nPlease add a layer of image to save it in History",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "AboutWindow",
+        "kind": 6,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "class AboutWindow(QtWidgets.QWidget):\n    def __init__(self):\n        super().__init__()\n        layout = QtWidgets.QVBoxLayout()\n        self.label = QLabel('''THIS PROJECT HAS BEEN MADE BY VIT BHOPAL UNIVERSITY STUDENTS GROUP 17 AS A CAPSTONE PROJECT  \nThe team consists of :-\n        20BAI10327 Yashaswi Patel\n        20BAI10085 Ayush Porwal\n        20BAI10092 Oishi Basak\n        20BAI10262 Kripansh Sharma",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "Gui",
+        "kind": 6,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "class Gui(QtWidgets.QMainWindow):\n    sliderChangeSignal = QtCore.pyqtSignal()\n    def __init__(self, parent=None):\n        super(Gui, self).__init__(parent)\n        self.setWindowTitle('LUMIERE')\n        self.setMinimumHeight(500)\n        self.createAction()\n        self.createMenuBar()\n        #self.createPopUp()\n        # openAction = QtGui.QAction(\"&Open\", self)",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "free_gpu_cache",
+        "kind": 2,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "def free_gpu_cache():\n    import torch\n    from GPUtil import showUtilization as gpu_usage\n    print(\"Initial GPU Usage\")\n    gpu_usage()                             \n    torch.cuda.empty_cache()\n    print(\"GPU Usage after emptying the cache\")\n    gpu_usage()\ndef importLibraries():\n    import torch",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "importLibraries",
+        "kind": 2,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "def importLibraries():\n    import torch\n    import numpy as np\n    import cv2\n    import PIL\n    print(\"Torch version\", torch.__version__)\n    print(\"Torch CUDA available?\", \"YES\" if torch.cuda.is_available() else \"NO\")\n    print(\"cv2 version\", cv2.__version__)\n    print(\"numpy version\", np.__version__)\n    print(\"PIl version\", PIL.__version__)",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "def main():\n    app = QApplication(sys.argv)\n    gui = Gui()\n    app.setStyleSheet('''\n    QWidget {\n        background-color: rgba(30, 30, 30, 0.65);\n        color: white;\n    }\n    QMainWindow { \n        background-image: url(\"images/bg4.png\"); ",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "kind": 6,
+        "importPath": "src.MiDaS",
+        "description": "src.MiDaS",
+        "peekOfCode": "class BaseModel(torch.nn.Module):\n    def load(self, path):\n        \"\"\"Load model from file.\n        Args:\n            path (str): file path\n        \"\"\"\n        parameters = torch.load(path, map_location=torch.device('cpu'))\n        if \"optimizer\" in parameters:\n            parameters = parameters[\"model\"]\n        self.load_state_dict(parameters)",
+        "detail": "src.MiDaS",
+        "documentation": {}
+    },
+    {
+        "label": "Slice",
+        "kind": 6,
+        "importPath": "src.MiDaS",
+        "description": "src.MiDaS",
+        "peekOfCode": "class Slice(nn.Module):\n    def __init__(self, start_index=1):\n        super(Slice, self).__init__()\n        self.start_index = start_index\n    def forward(self, x):\n        return x[:, self.start_index :]\nclass AddReadout(nn.Module):\n    def __init__(self, start_index=1):\n        super(AddReadout, self).__init__()\n        self.start_index = start_index",
+        "detail": "src.MiDaS",
+        "documentation": {}
+    },
+    {
+        "label": "AddReadout",
+        "kind": 6,
+        "importPath": "src.MiDaS",
+        "description": "src.MiDaS",
+        "peekOfCode": "class AddReadout(nn.Module):\n    def __init__(self, start_index=1):\n        super(AddReadout, self).__init__()\n        self.start_index = start_index\n    def forward(self, x):\n        if self.start_index == 2:\n            readout = (x[:, 0] + x[:, 1]) / 2\n        else:\n            readout = x[:, 0]\n        return x[:, self.start_index :] + readout.unsqueeze(1)",
+        "detail": "src.MiDaS",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectReadout",
+        "kind": 6,
+        "importPath": "src.MiDaS",
+        "description": "src.MiDaS",
+        "peekOfCode": "class ProjectReadout(nn.Module):\n    def __init__(self, in_features, start_index=1):\n        super(ProjectReadout, self).__init__()\n        self.start_index = start_index\n        self.project = nn.Sequential(nn.Linear(2 * in_features, in_features), nn.GELU())\n    def forward(self, x):\n        readout = x[:, 0].unsqueeze(1).expand_as(x[:, self.start_index :])\n        features = torch.cat((x[:, self.start_index :], readout), -1)\n        return self.project(features)\nclass Transpose(nn.Module):",
+        "detail": "src.MiDaS",
+        "documentation": {}
+    },
+    {
+        "label": "Transpose",
+        "kind": 6,
+        "importPath": "src.MiDaS",
+        "description": "src.MiDaS",
+        "peekOfCode": "class Transpose(nn.Module):\n    def __init__(self, dim0, dim1):\n        super(Transpose, self).__init__()\n        self.dim0 = dim0\n        self.dim1 = dim1\n    def forward(self, x):\n        x = x.transpose(self.dim0, self.dim1)\n        return x\ndef forward_vit(pretrained, x):\n    b, c, h, w = x.shape",
+        "detail": "src.MiDaS",
+        "documentation": {}
+    },
+    {
+        "label": "Interpolate",
+        "kind": 6,
+        "importPath": "src.MiDaS",
+        "description": "src.MiDaS",
+        "peekOfCode": "class Interpolate(nn.Module):\n    \"\"\"Interpolation module.\n    \"\"\"\n    def __init__(self, scale_factor, mode, align_corners=False):\n        \"\"\"Init.\n        Args:\n            scale_factor (float): scaling\n            mode (str): interpolation mode\n        \"\"\"\n        super(Interpolate, self).__init__()",
+        "detail": "src.MiDaS",
+        "documentation": {}
+    },
+    {
+        "label": "ResidualConvUnit",
+        "kind": 6,
+        "importPath": "src.MiDaS",
+        "description": "src.MiDaS",
+        "peekOfCode": "class ResidualConvUnit(nn.Module):\n    \"\"\"Residual convolution module.\n    \"\"\"\n    def __init__(self, features):\n        \"\"\"Init.\n        Args:\n            features (int): number of features\n        \"\"\"\n        super().__init__()\n        self.conv1 = nn.Conv2d(",
+        "detail": "src.MiDaS",
+        "documentation": {}
+    },
+    {
+        "label": "FeatureFusionBlock",
+        "kind": 6,
+        "importPath": "src.MiDaS",
+        "description": "src.MiDaS",
+        "peekOfCode": "class FeatureFusionBlock(nn.Module):\n    \"\"\"Feature fusion block.\n    \"\"\"\n    def __init__(self, features):\n        \"\"\"Init.\n        Args:\n            features (int): number of features\n        \"\"\"\n        super(FeatureFusionBlock, self).__init__()\n        self.resConfUnit1 = ResidualConvUnit(features)",
+        "detail": "src.MiDaS",
+        "documentation": {}
+    },
+    {
+        "label": "ResidualConvUnit_custom",
+        "kind": 6,
+        "importPath": "src.MiDaS",
+        "description": "src.MiDaS",
+        "peekOfCode": "class ResidualConvUnit_custom(nn.Module):\n    \"\"\"Residual convolution module.\n    \"\"\"\n    def __init__(self, features, activation, bn):\n        \"\"\"Init.\n        Args:\n            features (int): number of features\n        \"\"\"\n        super().__init__()\n        self.bn = bn",
+        "detail": "src.MiDaS",
+        "documentation": {}
+    },
+    {
+        "label": "FeatureFusionBlock_custom",
+        "kind": 6,
+        "importPath": "src.MiDaS",
+        "description": "src.MiDaS",
+        "peekOfCode": "class FeatureFusionBlock_custom(nn.Module):\n    \"\"\"Feature fusion block.\n    \"\"\"\n    def __init__(self, features, activation, deconv=False, bn=False, expand=False, align_corners=True):\n        \"\"\"Init.\n        Args:\n            features (int): number of features\n        \"\"\"\n        super(FeatureFusionBlock_custom, self).__init__()\n        self.deconv = deconv",
+        "detail": "src.MiDaS",
+        "documentation": {}
+    },
+    {
+        "label": "DPT",
+        "kind": 6,
+        "importPath": "src.MiDaS",
+        "description": "src.MiDaS",
+        "peekOfCode": "class DPT(BaseModel):\n    def __init__(\n        self,\n        head,\n        features=256,\n        backbone=\"vitb_rn50_384\",\n        readout=\"project\",\n        channels_last=False,\n        use_bn=False,\n    ):",
+        "detail": "src.MiDaS",
+        "documentation": {}
+    },
+    {
+        "label": "DPTDepthModel",
+        "kind": 6,
+        "importPath": "src.MiDaS",
+        "description": "src.MiDaS",
+        "peekOfCode": "class DPTDepthModel(DPT):\n    def __init__(self, path=None, non_negative=True, **kwargs):\n        features = kwargs[\"features\"] if \"features\" in kwargs else 256\n        head = nn.Sequential(\n            nn.Conv2d(features, features // 2, kernel_size=3, stride=1, padding=1),\n            Interpolate(scale_factor=2, mode=\"bilinear\", align_corners=True),\n            nn.Conv2d(features // 2, 32, kernel_size=3, stride=1, padding=1),\n            nn.ReLU(True),\n            nn.Conv2d(32, 1, kernel_size=1, stride=1, padding=0),\n            nn.ReLU(True) if non_negative else nn.Identity(),",
+        "detail": "src.MiDaS",
+        "documentation": {}
+    },
+    {
+        "label": "MidasNet",
+        "kind": 6,
+        "importPath": "src.MiDaS",
+        "description": "src.MiDaS",
+        "peekOfCode": "class MidasNet(BaseModel):\n    \"\"\"Network for monocular depth estimation.\n    \"\"\"\n    def __init__(self, path=None, features=256, non_negative=True):\n        \"\"\"Init.\n        Args:\n            path (str, optional): Path to saved model. Defaults to None.\n            features (int, optional): Number of features. Defaults to 256.\n            backbone (str, optional): Backbone network for encoder. Defaults to resnet50\n        \"\"\"",
+        "detail": "src.MiDaS",
+        "documentation": {}
+    },
+    {
+        "label": "Resize",
+        "kind": 6,
+        "importPath": "src.MiDaS",
+        "description": "src.MiDaS",
+        "peekOfCode": "class Resize(object):\n    \"\"\"Resize sample to given size (width, height).\n    \"\"\"\n    def __init__(\n        self,\n        width,\n        height,\n        resize_target=True,\n        keep_aspect_ratio=False,\n        ensure_multiple_of=1,",
+        "detail": "src.MiDaS",
+        "documentation": {}
+    },
+    {
+        "label": "NormalizeImage",
+        "kind": 6,
+        "importPath": "src.MiDaS",
+        "description": "src.MiDaS",
+        "peekOfCode": "class NormalizeImage(object):\n    \"\"\"Normlize image by given mean and std.\n    \"\"\"\n    def __init__(self, mean, std):\n        self.__mean = mean\n        self.__std = std\n    def __call__(self, sample):\n        sample[\"image\"] = (sample[\"image\"] - self.__mean) / self.__std\n        return sample\nclass PrepareForNet(object):",
+        "detail": "src.MiDaS",
+        "documentation": {}
+    },
+    {
+        "label": "PrepareForNet",
+        "kind": 6,
+        "importPath": "src.MiDaS",
+        "description": "src.MiDaS",
+        "peekOfCode": "class PrepareForNet(object):\n    \"\"\"Prepare sample for usage as network input.\n    \"\"\"\n    def __init__(self):\n        pass\n    def __call__(self, sample):\n        image = np.transpose(sample[\"image\"], (2, 0, 1))\n        sample[\"image\"] = np.ascontiguousarray(image).astype(np.float32)\n        if \"mask\" in sample:\n            sample[\"mask\"] = sample[\"mask\"].astype(np.float32)",
+        "detail": "src.MiDaS",
+        "documentation": {}
+    },
+    {
+        "label": "forward_vit",
+        "kind": 2,
+        "importPath": "src.MiDaS",
+        "description": "src.MiDaS",
+        "peekOfCode": "def forward_vit(pretrained, x):\n    b, c, h, w = x.shape\n    glob = pretrained.model.forward_flex(x)\n    layer_1 = pretrained.activations[\"1\"]\n    layer_2 = pretrained.activations[\"2\"]\n    layer_3 = pretrained.activations[\"3\"]\n    layer_4 = pretrained.activations[\"4\"]\n    layer_1 = pretrained.act_postprocess1[0:2](layer_1)\n    layer_2 = pretrained.act_postprocess2[0:2](layer_2)\n    layer_3 = pretrained.act_postprocess3[0:2](layer_3)",
+        "detail": "src.MiDaS",
+        "documentation": {}
+    },
+    {
+        "label": "forward_flex",
+        "kind": 2,
+        "importPath": "src.MiDaS",
+        "description": "src.MiDaS",
+        "peekOfCode": "def forward_flex(self, x):\n    b, c, h, w = x.shape\n    pos_embed = self._resize_pos_embed(\n        self.pos_embed, h // self.patch_size[1], w // self.patch_size[0]\n    )\n    B = x.shape[0]\n    if hasattr(self.patch_embed, \"backbone\"):\n        x = self.patch_embed.backbone(x)\n        if isinstance(x, (list, tuple)):\n            x = x[-1]  # last feature if backbone outputs list/tuple of features",
+        "detail": "src.MiDaS",
+        "documentation": {}
+    },
+    {
+        "label": "get_activation",
+        "kind": 2,
+        "importPath": "src.MiDaS",
+        "description": "src.MiDaS",
+        "peekOfCode": "def get_activation(name):\n    def hook(model, input, output):\n        activations[name] = output\n    return hook\ndef get_readout_oper(vit_features, features, use_readout, start_index=1):\n    if use_readout == \"ignore\":\n        readout_oper = [Slice(start_index)] * len(features)\n    elif use_readout == \"add\":\n        readout_oper = [AddReadout(start_index)] * len(features)\n    elif use_readout == \"project\":",
+        "detail": "src.MiDaS",
+        "documentation": {}
+    },
+    {
+        "label": "get_readout_oper",
+        "kind": 2,
+        "importPath": "src.MiDaS",
+        "description": "src.MiDaS",
+        "peekOfCode": "def get_readout_oper(vit_features, features, use_readout, start_index=1):\n    if use_readout == \"ignore\":\n        readout_oper = [Slice(start_index)] * len(features)\n    elif use_readout == \"add\":\n        readout_oper = [AddReadout(start_index)] * len(features)\n    elif use_readout == \"project\":\n        readout_oper = [\n            ProjectReadout(vit_features, start_index) for out_feat in features\n        ]\n    else:",
+        "detail": "src.MiDaS",
+        "documentation": {}
+    },
+    {
+        "label": "apply_min_size",
+        "kind": 2,
+        "importPath": "src.MiDaS",
+        "description": "src.MiDaS",
+        "peekOfCode": "def apply_min_size(sample, size, image_interpolation_method=cv2.INTER_AREA):\n    \"\"\"Rezise the sample to ensure the given size. Keeps aspect ratio.\n    Args:\n        sample (dict): sample\n        size (tuple): image size\n    Returns:\n        tuple: new size\n    \"\"\"\n    shape = list(sample[\"disparity\"].shape)\n    if shape[0] >= size[0] and shape[1] >= size[1]:",
+        "detail": "src.MiDaS",
+        "documentation": {}
+    },
+    {
+        "label": "activations",
+        "kind": 5,
+        "importPath": "src.MiDaS",
+        "description": "src.MiDaS",
+        "peekOfCode": "activations = {}\ndef get_activation(name):\n    def hook(model, input, output):\n        activations[name] = output\n    return hook\ndef get_readout_oper(vit_features, features, use_readout, start_index=1):\n    if use_readout == \"ignore\":\n        readout_oper = [Slice(start_index)] * len(features)\n    elif use_readout == \"add\":\n        readout_oper = [AddReadout(start_index)] * len(features)",
+        "detail": "src.MiDaS",
+        "documentation": {}
+    },
+    {
+        "label": "QColorPicker",
+        "kind": 6,
+        "importPath": "src.QColorPicker",
+        "description": "src.QColorPicker",
+        "peekOfCode": "class QColorPicker(QWidget):\n    colorChanged = pyqtSignal()\n    def __init__(self, *args, **kwargs):\n        # Extract Initial Color out of kwargs\n        rgb = kwargs.pop(\"rgb\", None)\n        hsv = kwargs.pop(\"hsv\", None)\n        hex = kwargs.pop(\"hex\", None)\n        super(QColorPicker, self).__init__(*args, **kwargs)\n        # Call UI Builder function\n        self.ui = Ui_Main()",
+        "detail": "src.QColorPicker",
+        "documentation": {}
+    },
+    {
+        "label": "HandleItem",
+        "kind": 6,
+        "importPath": "src.QCropItem",
+        "description": "src.QCropItem",
+        "peekOfCode": "class HandleItem(QGraphicsRectItem):\n    def __init__(self, position_flags, parent, imageSize):\n        w = imageSize[0]\n        h = imageSize[1]\n        max_dim = max(w, h)\n        handleItemSize = int(max_dim / 50)\n        if handleItemSize < 4:\n            handleItemSize = 4\n        start = -1 * int(handleItemSize / 2)\n        QGraphicsRectItem.__init__(self, start, start, handleItemSize, handleItemSize, parent)",
+        "detail": "src.QCropItem",
+        "documentation": {}
+    },
+    {
+        "label": "SizeGripItem",
+        "kind": 6,
+        "importPath": "src.QCropItem",
+        "description": "src.QCropItem",
+        "peekOfCode": "class SizeGripItem(QGraphicsItem):\n    Top = 0x01\n    Bottom = 0x1 << 1\n    Left = 0x1 << 2\n    Right = 0x1 << 3\n    TopLeft = Top | Left\n    BottomLeft = Bottom | Left\n    TopRight = Top | Right\n    BottomRight = Bottom | Right\n    handleCursors = {",
+        "detail": "src.QCropItem",
+        "documentation": {}
+    },
+    {
+        "label": "QCropItem",
+        "kind": 6,
+        "importPath": "src.QCropItem",
+        "description": "src.QCropItem",
+        "peekOfCode": "class QCropItem(QGraphicsPathItem):\n    def __init__(self, parent, cropRect, imageSize):\n        QGraphicsPathItem.__init__(self, parent)\n        self.extern_rect = parent.boundingRect()\n        self.intern_rect = cropRect\n        self.setBrush(QColor(10, 100, 100, 100))\n        self.setPen(QPen(Qt.PenStyle.NoPen))\n        SizeGripItem(self, imageSize)\n        self.create_path()\n    def create_path(self):",
+        "detail": "src.QCropItem",
+        "documentation": {}
+    },
+    {
+        "label": "Curve",
+        "kind": 6,
+        "importPath": "src.QCurveWidget",
+        "description": "src.QCurveWidget",
+        "peekOfCode": "class Curve:\n    \"\"\" Interface to the NURBS curve which also manages connecting the end of the\n    curve with the beginning \"\"\"\n    def __init__(self):\n        self._curve = None\n        # Append some points to the border, to make sure the curve matches at\n        # the edges\n        self._border_points = 1\n        # Curve color, used for displaying the curve\n        self._color = (255, 255, 255)",
+        "detail": "src.QCurveWidget",
+        "documentation": {}
+    },
+    {
+        "label": "QCurveWidget",
+        "kind": 6,
+        "importPath": "src.QCurveWidget",
+        "description": "src.QCurveWidget",
+        "peekOfCode": "class QCurveWidget(QtWidgets.QWidget):\n    \"\"\" This is a resizeable Widget which shows an editable curve which can\n    be modified. \"\"\"\n    def __init__(self, parent, viewer):\n        \"\"\" Constructs the CurveWidget, we start with an initial curve \"\"\"\n        QtWidgets.QWidget.__init__(self, parent)\n        self.curves = []\n        self.viewer = viewer\n        self.setWindowTitle(\"Curves\")\n        # Append initial curve",
+        "detail": "src.QCurveWidget",
+        "documentation": {}
+    },
+    {
+        "label": "QFlowLayout",
+        "kind": 6,
+        "importPath": "src.QFlowLayout",
+        "description": "src.QFlowLayout",
+        "peekOfCode": "class QFlowLayout(QtWidgets.QLayout):\n    def __init__(self, parent=None, margin=-1, hspacing=-1, vspacing=-1):\n        super(QFlowLayout, self).__init__(parent)\n        self._hspacing = hspacing\n        self._vspacing = vspacing\n        self._items = []\n        self.setContentsMargins(margin, margin, margin, margin)\n    def __del__(self):\n        del self._items[:]\n    def addItem(self, item):",
+        "detail": "src.QFlowLayout",
+        "documentation": {}
+    },
+    {
+        "label": "QtImageViewer",
+        "kind": 6,
+        "importPath": "src.QImageViewer",
+        "description": "src.QImageViewer",
+        "peekOfCode": "class QtImageViewer(QGraphicsView):\n    # Mouse button signals emit image scene (x, y) coordinates.\n    # !!! For image (row, column) matrix indexing, row = y and column = x.\n    # !!! These signals will NOT be emitted if the event is handled by an interaction such as zoom or pan.\n    # !!! If aspect ratio prevents image from filling viewport, emitted position may be outside image bounds.\n    leftMouseButtonPressed = pyqtSignal(float, float)\n    leftMouseButtonReleased = pyqtSignal(float, float)\n    middleMouseButtonPressed = pyqtSignal(float, float)\n    middleMouseButtonReleased = pyqtSignal(float, float)\n    rightMouseButtonPressed = pyqtSignal(float, float)",
+        "detail": "src.QImageViewer",
+        "documentation": {}
+    },
+    {
+        "label": "EllipseROI",
+        "kind": 6,
+        "importPath": "src.QImageViewer",
+        "description": "src.QImageViewer",
+        "peekOfCode": "class EllipseROI(QGraphicsEllipseItem):\n    def __init__(self, viewer):\n        QGraphicsItem.__init__(self)\n        self._viewer = viewer\n        pen = QPen(Qt.yellow)\n        pen.setCosmetic(True)\n        self.setPen(pen)\n        self.setFlags(self.GraphicsItemFlag.ItemIsSelectable)\n    def mousePressEvent(self, event):\n        QGraphicsItem.mousePressEvent(self, event)",
+        "detail": "src.QImageViewer",
+        "documentation": {}
+    },
+    {
+        "label": "RectROI",
+        "kind": 6,
+        "importPath": "src.QImageViewer",
+        "description": "src.QImageViewer",
+        "peekOfCode": "class RectROI(QGraphicsRectItem):\n    def __init__(self, viewer):\n        QGraphicsItem.__init__(self)\n        self._viewer = viewer\n        pen = QPen(Qt.GlobalColor.yellow)\n        pen.setCosmetic(True)\n        self.setPen(pen)\n        self.setFlags(self.GraphicsItemFlag.ItemIsSelectable)\n    def mousePressEvent(self, event):\n        QGraphicsItem.mousePressEvent(self, event)",
+        "detail": "src.QImageViewer",
+        "documentation": {}
+    },
+    {
+        "label": "LineROI",
+        "kind": 6,
+        "importPath": "src.QImageViewer",
+        "description": "src.QImageViewer",
+        "peekOfCode": "class LineROI(QGraphicsLineItem):\n    def __init__(self, viewer):\n        QGraphicsItem.__init__(self)\n        self._viewer = viewer\n        pen = QPen(Qt.GlobalColor.yellow)\n        pen.setCosmetic(True)\n        self.setPen(pen)\n        self.setFlags(self.GraphicsItemFlag.ItemIsSelectable)\n    def mousePressEvent(self, event):\n        QGraphicsItem.mousePressEvent(self, event)",
+        "detail": "src.QImageViewer",
+        "documentation": {}
+    },
+    {
+        "label": "PolygonROI",
+        "kind": 6,
+        "importPath": "src.QImageViewer",
+        "description": "src.QImageViewer",
+        "peekOfCode": "class PolygonROI(QGraphicsPolygonItem):\n    def __init__(self, viewer):\n        QGraphicsItem.__init__(self)\n        self._viewer = viewer\n        pen = QPen(Qt.GlobalColor.yellow)\n        pen.setCosmetic(True)\n        self.setPen(pen)\n        self.setFlags(self.GraphicsItemFlag.ItemIsSelectable)\n    def mousePressEvent(self, event):\n        QGraphicsItem.mousePressEvent(self, event)",
+        "detail": "src.QImageViewer",
+        "documentation": {}
+    },
+    {
+        "label": "__author__",
+        "kind": 5,
+        "importPath": "src.QImageViewer",
+        "description": "src.QImageViewer",
+        "peekOfCode": "__author__ = \"Marcel Goldschen-Ohm <marcel.goldschen@gmail.com>\"\n__version__ = '2.0.0'\nfrom QCropItem import QCropItem\nimport random\nfrom PIL import Image, ImageFilter, ImageDraw\nfrom PIL.ImageQt import ImageQt\nclass QtImageViewer(QGraphicsView):\n    # Mouse button signals emit image scene (x, y) coordinates.\n    # !!! For image (row, column) matrix indexing, row = y and column = x.\n    # !!! These signals will NOT be emitted if the event is handled by an interaction such as zoom or pan.",
+        "detail": "src.QImageViewer",
+        "documentation": {}
+    },
+    {
+        "label": "__version__",
+        "kind": 5,
+        "importPath": "src.QImageViewer",
+        "description": "src.QImageViewer",
+        "peekOfCode": "__version__ = '2.0.0'\nfrom QCropItem import QCropItem\nimport random\nfrom PIL import Image, ImageFilter, ImageDraw\nfrom PIL.ImageQt import ImageQt\nclass QtImageViewer(QGraphicsView):\n    # Mouse button signals emit image scene (x, y) coordinates.\n    # !!! For image (row, column) matrix indexing, row = y and column = x.\n    # !!! These signals will NOT be emitted if the event is handled by an interaction such as zoom or pan.\n    # !!! If aspect ratio prevents image from filling viewport, emitted position may be outside image bounds.",
+        "detail": "src.QImageViewer",
+        "documentation": {}
+    },
+    {
+        "label": "QLayerList",
+        "kind": 6,
+        "importPath": "src.QLayerList",
+        "description": "src.QLayerList",
+        "peekOfCode": "class QLayerList(QtWidgets.QDockWidget):\n    def __init__(self, title, parent):\n        super(QLayerList, self).__init__(title, parent)\n        self.parent = parent\n        self.layout = QFlowLayout()\n        self.layerButtons = []\n        self.currentButton = None\n        self.init()\n    def getNumberOfLayers(self):\n        if getattr(self.parent, \"image_viewer\", None):",
+        "detail": "src.QLayerList",
+        "documentation": {}
+    },
+    {
+        "label": "QProgressBarThread",
+        "kind": 6,
+        "importPath": "src.QProgressBarThread",
+        "description": "src.QProgressBarThread",
+        "peekOfCode": "class QProgressBarThread(QtCore.QThread):\n    # Signals to relay thread progress to the main GUI thread\n    progressSignal = QtCore.pyqtSignal(int, str)\n    completeSignal = QtCore.pyqtSignal()\n    def __init__(self, parent=None):\n        super(QProgressBarThread, self).__init__(parent)\n        # You can change variables defined here after initialization - but before calling start()\n        self.maxRange = 100\n        self.taskFunction = None\n        self.taskFunctionArgs = []",
+        "detail": "src.QProgressBarThread",
+        "documentation": {}
+    },
+    {
+        "label": "QTool",
+        "kind": 6,
+        "importPath": "src.QTool",
+        "description": "src.QTool",
+        "peekOfCode": "class QTool(QtWidgets.QWidget):\n    completedSignal = QtCore.pyqtSignal()\n    def __init__(self, parent=None, name=\"\", description=\"\", demoImagePath=None, onRun=None, toolInput=None, onCompleted=None, toolReference=None):\n        super(QTool, self).__init__(parent)\n        self.setStyleSheet(\"background-color: rgba(92, 32, 139, 0.3);\")\n        self.parent = parent\n        self.onRun = onRun\n        self.toolInput = toolInput\n        self.setWindowTitle(name)\n        self.titleLabel = QtWidgets.QLabel()",
+        "detail": "src.QTool",
+        "documentation": {}
+    },
+    {
+        "label": "QToolAnimeGAN",
+        "kind": 6,
+        "importPath": "src.QToolAnimeGAN",
+        "description": "src.QToolAnimeGAN",
+        "peekOfCode": "class QToolAnimeGAN(QTool):\n    net = None\n    def __init__(self, parent=None, toolInput=None, onCompleted=None):\n        super(QToolAnimeGAN, self).__init__(parent, \"Anime GAN\", \n                                              \"Transform photos of real-world scenes into anime style images\",\n                                              \"images/anime_2.png\", self.onRun, toolInput, onCompleted, self)\n        self.parent = parent\n        self.output = None\n    def onRun(self, progressSignal, args):\n        image = args[0]",
+        "detail": "src.QToolAnimeGAN",
+        "documentation": {}
+    },
+    {
+        "label": "QToolBackgroundRemoval",
+        "kind": 6,
+        "importPath": "src.QToolBackgroundRemoval",
+        "description": "src.QToolBackgroundRemoval",
+        "peekOfCode": "class QToolBackgroundRemoval(QTool):\n    def __init__(self, parent=None, toolInput=None, onCompleted=None):\n        super(QToolBackgroundRemoval, self).__init__(parent, \"Background Removal\", \n                                             \"Remove Background from images\", \n                                             \"images/bgrem.png\", \n                                             self.onRun, toolInput, onCompleted, self)\n        self.parent = parent\n        self.output = None\n    def onRun(self, progressSignal, args):\n        image = args[0]",
+        "detail": "src.QToolBackgroundRemoval",
+        "documentation": {}
+    },
+    {
+        "label": "QToolColorizer",
+        "kind": 6,
+        "importPath": "src.QToolColorizer",
+        "description": "src.QToolColorizer",
+        "peekOfCode": "class QToolColorizer(QTool):\n    def __init__(self, parent=None, toolInput=None, onCompleted=None):\n        super(QToolColorizer, self).__init__(parent, \"Interactive Colorization\", \n                                             \"Colourize image interactively by leveraging a vision transformer\",\n                                             \"images/colourizer.png\", \n                                             self.onRun, toolInput, onCompleted, self)\n        self.parent = parent\n        self.output = None\n    def onRun(self, progressSignal):\n        import ColorizerMain",
+        "detail": "src.QToolColorizer",
+        "documentation": {}
+    },
+    {
+        "label": "QToolGrayscaleBackground",
+        "kind": 6,
+        "importPath": "src.QToolGrayscaleBackground",
+        "description": "src.QToolGrayscaleBackground",
+        "peekOfCode": "class QToolGrayscaleBackground(QTool):\n    def __init__(self, parent=None, toolInput=None, onCompleted=None):\n        super(QToolGrayscaleBackground, self).__init__(parent, \"Grayscale Background\", \n                                             \"Gray out the background to highlight the subject\", \n                                             \"images/GrayscaleBackground.png\", \n                                             self.onRun, toolInput, onCompleted, self)\n        self.parent = parent\n        self.output = None\n    def onRun(self, progressSignal, args):\n        image = args[0].copy()",
+        "detail": "src.QToolGrayscaleBackground",
+        "documentation": {}
+    },
+    {
+        "label": "QToolHumanSegmentation",
+        "kind": 6,
+        "importPath": "src.QToolHumanSegmentation",
+        "description": "src.QToolHumanSegmentation",
+        "peekOfCode": "class QToolHumanSegmentation(QTool):\n    def __init__(self, parent=None, toolInput=None, onCompleted=None):\n        super(QToolHumanSegmentation, self).__init__(parent, \"Human Segmentation\", \n                                             \"Extract humans from images\", \n                                             \"images/tanishi_seg.png\", \n                                             self.onRun, toolInput, onCompleted, self)\n        self.parent = parent\n        self.output = None\n    def onRun(self, progressSignal, args):\n        image = args[0]",
+        "detail": "src.QToolHumanSegmentation",
+        "documentation": {}
+    },
+    {
+        "label": "QToolInstagramFilters",
+        "kind": 6,
+        "importPath": "src.QToolInstagramFilters",
+        "description": "src.QToolInstagramFilters",
+        "peekOfCode": "class QToolInstagramFilters(QScrollArea):\n    def __init__(self, parent=None, toolInput=None):\n        super(QToolInstagramFilters, self).__init__(None)\n        self.parent = parent\n        self.toolInput = toolInput\n        self.output = None\n        self.layout = QHBoxLayout()\n        self.setHorizontalScrollBarPolicy(QtCore.Qt.ScrollBarPolicy.ScrollBarAlwaysOff)\n        self.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarPolicy.ScrollBarAlwaysOff)\n        self.setWidgetResizable(True)",
+        "detail": "src.QToolInstagramFilters",
+        "documentation": {}
+    },
+    {
+        "label": "QToolPortraitMode",
+        "kind": 6,
+        "importPath": "src.QToolPortraitMode",
+        "description": "src.QToolPortraitMode",
+        "peekOfCode": "class QToolPortraitMode(QTool):\n    def __init__(self, parent=None, toolInput=None, onCompleted=None):\n        super(QToolPortraitMode, self).__init__(parent, \"Portrait Mode\", \n                                             \"Narrow the depth of field to draw attention to a subject in the photo\", \n                                             \"images/port_bg_blur.png\", \n                                             self.onRun, toolInput, onCompleted, self)\n        self.parent = parent\n        self.output = None\n        self.backgroundRemoved = None\n    def onRun(self, progressSignal, args):",
+        "detail": "src.QToolPortraitMode",
+        "documentation": {}
+    },
+    {
+        "label": "QToolSuperResolution",
+        "kind": 6,
+        "importPath": "src.QToolSuperResolution",
+        "description": "src.QToolSuperResolution",
+        "peekOfCode": "class QToolSuperResolution(QTool):\n    def __init__(self, parent=None, toolInput=None, onCompleted=None):\n        super(QToolSuperResolution, self).__init__(parent, \"Super-Resolution\", \n                                             \"Reconstruct detailed high-res counterpart from a low-res image\", \n                                             \"images/supres2.png\", \n                                             self.onRun, toolInput, onCompleted, self)\n        self.parent = parent\n        self.output = None\n    def onRun(self, progressSignal, args):\n        image = args[0]",
+        "detail": "src.QToolSuperResolution",
+        "documentation": {}
+    },
+    {
+        "label": "QToolWhiteBalance",
+        "kind": 6,
+        "importPath": "src.QToolWhiteBalance",
+        "description": "src.QToolWhiteBalance",
+        "peekOfCode": "class QToolWhiteBalance(QTool):\n    def __init__(self, parent=None, toolInput=None, onCompleted=None):\n        super(QToolWhiteBalance, self).__init__(parent, \"White Balance Correction\", \n                                             \"Correct a camera image that has been improperly white balanced\",\n                                             \"images/kripansh_wb.png\", \n                                             self.onRun, toolInput, onCompleted, self)\n        self.parent = parent\n        self.output = None\n    def onRun(self, progressSignal, args):\n        # https://github.com/mahmoudnafifi/WB_sRGB",
+        "detail": "src.QToolWhiteBalance",
+        "documentation": {}
+    },
+    {
+        "label": "ResidualDenseBlock_5C",
+        "kind": 6,
+        "importPath": "src.QualityScaler",
+        "description": "src.QualityScaler",
+        "peekOfCode": "class ResidualDenseBlock_5C(nn.Module):\n    def __init__(self, nf=64, gc=32, bias=True):\n        super(ResidualDenseBlock_5C, self).__init__()\n        # gc: growth channel, i.e. intermediate channels\n        self.conv1 = nn.Conv2d(nf, gc, 3, 1, 1, bias=bias)\n        self.conv2 = nn.Conv2d(nf + gc, gc, 3, 1, 1, bias=bias)\n        self.conv3 = nn.Conv2d(nf + 2 * gc, gc, 3, 1, 1, bias=bias)\n        self.conv4 = nn.Conv2d(nf + 3 * gc, gc, 3, 1, 1, bias=bias)\n        self.conv5 = nn.Conv2d(nf + 4 * gc, nf, 3, 1, 1, bias=bias)\n        self.lrelu = nn.LeakyReLU(negative_slope=0.2, inplace=True)",
+        "detail": "src.QualityScaler",
+        "documentation": {}
+    },
+    {
+        "label": "RRDB",
+        "kind": 6,
+        "importPath": "src.QualityScaler",
+        "description": "src.QualityScaler",
+        "peekOfCode": "class RRDB(nn.Module):\n    '''Residual in Residual Dense Block'''\n    def __init__(self, nf, gc=32):\n        super(RRDB, self).__init__()\n        self.RDB1 = ResidualDenseBlock_5C(nf, gc)\n        self.RDB2 = ResidualDenseBlock_5C(nf, gc)\n        self.RDB3 = ResidualDenseBlock_5C(nf, gc)\n    def forward(self, x):\n        out = self.RDB1(x)\n        out = self.RDB2(out)",
+        "detail": "src.QualityScaler",
+        "documentation": {}
+    },
+    {
+        "label": "RRDBNet",
+        "kind": 6,
+        "importPath": "src.QualityScaler",
+        "description": "src.QualityScaler",
+        "peekOfCode": "class RRDBNet(nn.Module):\n    def __init__(self, in_nc=3, out_nc=3, nf=64, nb=23, gc=32, sf=4):\n        super(RRDBNet, self).__init__()\n        RRDB_block_f = functools.partial(RRDB, nf=nf, gc=gc)\n        self.sf = sf\n        self.conv_first = nn.Conv2d(in_nc, nf, 3, 1, 1, bias=True)\n        self.RRDB_trunk = make_layer(RRDB_block_f, nb)\n        self.trunk_conv = nn.Conv2d(nf, nf, 3, 1, 1, bias=True)\n        # upsampling\n        self.upconv1 = nn.Conv2d(nf, nf, 3, 1, 1, bias=True)",
+        "detail": "src.QualityScaler",
+        "documentation": {}
+    },
+    {
+        "label": "create_temp_dir",
+        "kind": 2,
+        "importPath": "src.QualityScaler",
+        "description": "src.QualityScaler",
+        "peekOfCode": "def create_temp_dir(name_dir):\n    if os.path.exists(name_dir):\n        shutil.rmtree(name_dir)\n    if not os.path.exists(name_dir):\n        os.makedirs(name_dir)\ndef find_by_relative_path(relative_path):\n    base_path = getattr(sys, '_MEIPASS', os.path.dirname(\n        os.path.abspath(__file__)))\n    return os.path.join(base_path, relative_path)\ndef image_to_uint(img, n_channels=3):",
+        "detail": "src.QualityScaler",
+        "documentation": {}
+    },
+    {
+        "label": "find_by_relative_path",
+        "kind": 2,
+        "importPath": "src.QualityScaler",
+        "description": "src.QualityScaler",
+        "peekOfCode": "def find_by_relative_path(relative_path):\n    base_path = getattr(sys, '_MEIPASS', os.path.dirname(\n        os.path.abspath(__file__)))\n    return os.path.join(base_path, relative_path)\ndef image_to_uint(img, n_channels=3):\n    #if n_channels == 1:\n    #    img = cv2.imread(path, 0)  # cv2.IMREAD_GRAYSCALE\n    #    img = np.expand_dims(img, axis=2)  # HxWx1\n    #elif n_channels == 3:\n    #    img = cv2.imread(path, cv2.IMREAD_UNCHANGED)  # BGR or G",
+        "detail": "src.QualityScaler",
+        "documentation": {}
+    },
+    {
+        "label": "image_to_uint",
+        "kind": 2,
+        "importPath": "src.QualityScaler",
+        "description": "src.QualityScaler",
+        "peekOfCode": "def image_to_uint(img, n_channels=3):\n    #if n_channels == 1:\n    #    img = cv2.imread(path, 0)  # cv2.IMREAD_GRAYSCALE\n    #    img = np.expand_dims(img, axis=2)  # HxWx1\n    #elif n_channels == 3:\n    #    img = cv2.imread(path, cv2.IMREAD_UNCHANGED)  # BGR or G\n    #    if img.ndim == 2:\n    #        img = cv2.cvtColor(img, cv2.COLOR_GRAY2RGB)  # GGG\n    #    else:\n    #        img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)  # RGB",
+        "detail": "src.QualityScaler",
+        "documentation": {}
+    },
+    {
+        "label": "save_image",
+        "kind": 2,
+        "importPath": "src.QualityScaler",
+        "description": "src.QualityScaler",
+        "peekOfCode": "def save_image(img, img_path):\n    img = np.squeeze(img)\n    if img.ndim == 3:\n        img = img[:, :, [2, 1, 0]]\n    cv2.imwrite(img_path, img)\ndef uint_to_tensor4(img):\n    if img.ndim == 2:\n        img = np.expand_dims(img, axis=2)\n    #return F.interpolate(torch.from_numpy(np.ascontiguousarray(img)).permute(2, 0, 1).float().div(255.).unsqueeze(0), 256)\n    return torch.from_numpy(np.ascontiguousarray(img)).permute(2, 0, 1).float().div(255.).unsqueeze(0)",
+        "detail": "src.QualityScaler",
+        "documentation": {}
+    },
+    {
+        "label": "uint_to_tensor4",
+        "kind": 2,
+        "importPath": "src.QualityScaler",
+        "description": "src.QualityScaler",
+        "peekOfCode": "def uint_to_tensor4(img):\n    if img.ndim == 2:\n        img = np.expand_dims(img, axis=2)\n    #return F.interpolate(torch.from_numpy(np.ascontiguousarray(img)).permute(2, 0, 1).float().div(255.).unsqueeze(0), 256)\n    return torch.from_numpy(np.ascontiguousarray(img)).permute(2, 0, 1).float().div(255.).unsqueeze(0)\ndef tensor_to_uint(img):\n    img = img.data.squeeze().float().clamp_(0, 1).cpu().numpy()\n    if img.ndim == 3:\n        img = np.transpose(img, (1, 2, 0))\n    return np.uint8((img*255.0).round())",
+        "detail": "src.QualityScaler",
+        "documentation": {}
+    },
+    {
+        "label": "tensor_to_uint",
+        "kind": 2,
+        "importPath": "src.QualityScaler",
+        "description": "src.QualityScaler",
+        "peekOfCode": "def tensor_to_uint(img):\n    img = img.data.squeeze().float().clamp_(0, 1).cpu().numpy()\n    if img.ndim == 3:\n        img = np.transpose(img, (1, 2, 0))\n    return np.uint8((img*255.0).round())\ndef delete_tiles(tiles):\n    for tile in tiles:\n        os.remove(tile.filename)\ndef prepare_output_filename(img, AI_model, target_file_extension):\n    result_path = (img.replace(\"_resized\" + target_file_extension, \"\").replace(target_file_extension, \"\") ",
+        "detail": "src.QualityScaler",
+        "documentation": {}
+    },
+    {
+        "label": "delete_tiles",
+        "kind": 2,
+        "importPath": "src.QualityScaler",
+        "description": "src.QualityScaler",
+        "peekOfCode": "def delete_tiles(tiles):\n    for tile in tiles:\n        os.remove(tile.filename)\ndef prepare_output_filename(img, AI_model, target_file_extension):\n    result_path = (img.replace(\"_resized\" + target_file_extension, \"\").replace(target_file_extension, \"\") \n                    + \"_\"  + AI_model  \n                    + target_file_extension)\n    return result_path\ndef delete_list_of_files(list_to_delete):\n    if len(list_to_delete) > 0:",
+        "detail": "src.QualityScaler",
+        "documentation": {}
+    },
+    {
+        "label": "prepare_output_filename",
+        "kind": 2,
+        "importPath": "src.QualityScaler",
+        "description": "src.QualityScaler",
+        "peekOfCode": "def prepare_output_filename(img, AI_model, target_file_extension):\n    result_path = (img.replace(\"_resized\" + target_file_extension, \"\").replace(target_file_extension, \"\") \n                    + \"_\"  + AI_model  \n                    + target_file_extension)\n    return result_path\ndef delete_list_of_files(list_to_delete):\n    if len(list_to_delete) > 0:\n        for to_delete in list_to_delete:\n            if os.path.exists(to_delete):\n                os.remove(to_delete)",
+        "detail": "src.QualityScaler",
+        "documentation": {}
+    },
+    {
+        "label": "delete_list_of_files",
+        "kind": 2,
+        "importPath": "src.QualityScaler",
+        "description": "src.QualityScaler",
+        "peekOfCode": "def delete_list_of_files(list_to_delete):\n    if len(list_to_delete) > 0:\n        for to_delete in list_to_delete:\n            if os.path.exists(to_delete):\n                os.remove(to_delete)\ndef adapt_image_for_deeplearning(img, device):\n    if 'cpu' in device:\n        backend = torch.device('cpu')\n    elif 'dml' in device:\n        backend = torch.device('dml')",
+        "detail": "src.QualityScaler",
+        "documentation": {}
+    },
+    {
+        "label": "adapt_image_for_deeplearning",
+        "kind": 2,
+        "importPath": "src.QualityScaler",
+        "description": "src.QualityScaler",
+        "peekOfCode": "def adapt_image_for_deeplearning(img, device):\n    if 'cpu' in device:\n        backend = torch.device('cpu')\n    elif 'dml' in device:\n        backend = torch.device('dml')\n    elif 'cuda' in device:\n        backend = torch.device('cuda')\n    img = image_to_uint(img, n_channels=3)\n    img = uint_to_tensor4(img)\n    img = img.to(backend, non_blocking = True)",
+        "detail": "src.QualityScaler",
+        "documentation": {}
+    },
+    {
+        "label": "initialize_weights",
+        "kind": 2,
+        "importPath": "src.QualityScaler",
+        "description": "src.QualityScaler",
+        "peekOfCode": "def initialize_weights(net_l, scale=1):\n    if not isinstance(net_l, list):\n        net_l = [net_l]\n    for net in net_l:\n        for m in net.modules():\n            if isinstance(m, nn.Conv2d):\n                init.kaiming_normal_(m.weight, a=0, mode='fan_in')\n                m.weight.data *= scale  # for residual block\n                if m.bias is not None:\n                    m.bias.data.zero_()",
+        "detail": "src.QualityScaler",
+        "documentation": {}
+    },
+    {
+        "label": "make_layer",
+        "kind": 2,
+        "importPath": "src.QualityScaler",
+        "description": "src.QualityScaler",
+        "peekOfCode": "def make_layer(block, n_layers):\n    layers = []\n    for _ in range(n_layers):\n        layers.append(block())\n    return nn.Sequential(*layers)\nclass ResidualDenseBlock_5C(nn.Module):\n    def __init__(self, nf=64, gc=32, bias=True):\n        super(ResidualDenseBlock_5C, self).__init__()\n        # gc: growth channel, i.e. intermediate channels\n        self.conv1 = nn.Conv2d(nf, gc, 3, 1, 1, bias=bias)",
+        "detail": "src.QualityScaler",
+        "documentation": {}
+    },
+    {
+        "label": "check_compatibility",
+        "kind": 2,
+        "importPath": "src.QualityScaler",
+        "description": "src.QualityScaler",
+        "peekOfCode": "def check_compatibility(supported_file_dropped_number, not_supported_file_dropped_number, supported_video_dropped_number):\n    all_supported  = True\n    single_file    = False\n    multiple_files = False\n    video_files    = False\n    more_than_one_video = False\n    if not_supported_file_dropped_number > 0:\n        all_supported = False\n    if supported_file_dropped_number + not_supported_file_dropped_number == 1:\n        single_file = True",
+        "detail": "src.QualityScaler",
+        "documentation": {}
+    },
+    {
+        "label": "upscale_image_and_save",
+        "kind": 2,
+        "importPath": "src.QualityScaler",
+        "description": "src.QualityScaler",
+        "peekOfCode": "def upscale_image_and_save(img, model, result_path, device, tiles_resolution):\n    multiplier_num_tiles = 3\n    img_tmp          = cv2.imread(img)\n    image_resolution = max(img_tmp.shape[1], img_tmp.shape[0])\n    num_tiles        = image_resolution/tiles_resolution\n    if num_tiles <= 1:\n        num_tiles = 2\n    #if num_tiles <= 1:\n    #    img_adapted  = adapt_image_for_deeplearning(img, device)\n    #    with torch.no_grad():",
+        "detail": "src.QualityScaler",
+        "documentation": {}
+    },
+    {
+        "label": "upscale_image",
+        "kind": 2,
+        "importPath": "src.QualityScaler",
+        "description": "src.QualityScaler",
+        "peekOfCode": "def upscale_image(img, model, device, tiles_resolution, progressSignal):\n    multiplier_num_tiles = 3\n    img_tmp          = np.asarray(img)\n    image_resolution = max(img_tmp.shape[1], img_tmp.shape[0])\n    num_tiles        = image_resolution/tiles_resolution\n    if num_tiles <= 1:\n        progressSignal.emit(55, \"Adapting image for deep learning\")\n        img_adapted  = adapt_image_for_deeplearning(img, device)\n        with torch.no_grad():\n            progressSignal.emit(60, \"Scaling the quality...\")",
+        "detail": "src.QualityScaler",
+        "documentation": {}
+    },
+    {
+        "label": "optimize_torch",
+        "kind": 2,
+        "importPath": "src.QualityScaler",
+        "description": "src.QualityScaler",
+        "peekOfCode": "def optimize_torch():\n    torch.autograd.set_detect_anomaly(False)\n    torch.autograd.profiler.profile(False)\n    torch.autograd.profiler.emit_nvtx(False)\ndef prepare_AI_model(AI_model, device):\n    if 'cpu' in device:\n        backend = torch.device('cpu')\n    elif 'cuda' in device:\n        backend = torch.device('cuda')\n    elif 'dml' in device:",
+        "detail": "src.QualityScaler",
+        "documentation": {}
+    },
+    {
+        "label": "prepare_AI_model",
+        "kind": 2,
+        "importPath": "src.QualityScaler",
+        "description": "src.QualityScaler",
+        "peekOfCode": "def prepare_AI_model(AI_model, device):\n    if 'cpu' in device:\n        backend = torch.device('cpu')\n    elif 'cuda' in device:\n        backend = torch.device('cuda')\n    elif 'dml' in device:\n        backend = torch.device('dml')\n    model_path = os.path.join('models', AI_model + '.pth')\n    if \"x2\" in AI_model: upscale_factor = 2\n    elif \"x4\" in AI_model: upscale_factor = 4",
+        "detail": "src.QualityScaler",
+        "documentation": {}
+    },
+    {
+        "label": "convert_image_list",
+        "kind": 2,
+        "importPath": "src.QualityScaler",
+        "description": "src.QualityScaler",
+        "peekOfCode": "def convert_image_list(image_list, target_file_extension):\n    converted_images = []\n    for image in image_list:\n        image = image.strip()\n        converted_img = convert_image_and_save(image, target_file_extension)\n        converted_images.append(converted_img)\n    return converted_images\ndef convert_image_and_save(image_to_prepare, target_file_extension):\n    image_to_prepare = image_to_prepare.replace(\"{\", \"\").replace(\"}\", \"\")\n    new_image_path = image_to_prepare",
+        "detail": "src.QualityScaler",
+        "documentation": {}
+    },
+    {
+        "label": "convert_image_and_save",
+        "kind": 2,
+        "importPath": "src.QualityScaler",
+        "description": "src.QualityScaler",
+        "peekOfCode": "def convert_image_and_save(image_to_prepare, target_file_extension):\n    image_to_prepare = image_to_prepare.replace(\"{\", \"\").replace(\"}\", \"\")\n    new_image_path = image_to_prepare\n    for file_type in supported_file_list:\n        new_image_path = new_image_path.replace(file_type, target_file_extension)\n    cv2.imwrite(new_image_path, cv2.imread(image_to_prepare))\n    return \ndef process_upscale_multiple_images_qualityscaler(image_list, AI_model, resize_factor, device, tiles_resolution, target_file_extension):\n    try:\n        # start = timer()",
+        "detail": "src.QualityScaler",
+        "documentation": {}
+    },
+    {
+        "label": "process_upscale_multiple_images_qualityscaler",
+        "kind": 2,
+        "importPath": "src.QualityScaler",
+        "description": "src.QualityScaler",
+        "peekOfCode": "def process_upscale_multiple_images_qualityscaler(image_list, AI_model, resize_factor, device, tiles_resolution, target_file_extension):\n    try:\n        # start = timer()\n        # write_in_log_file('...')\n        optimize_torch()\n        # write_in_log_file('Resizing images')\n        # image_list = convert_image_list(image_list, target_file_extension)\n        # image_list, files_to_delete = resize_image_list(image_list, resize_factor)\n        done_images     = 0\n        # write_in_log_file('Upscaling...')",
+        "detail": "src.QualityScaler",
+        "documentation": {}
+    },
+    {
+        "label": "split_image",
+        "kind": 2,
+        "importPath": "src.QualityScalerUtilities",
+        "description": "src.QualityScalerUtilities",
+        "peekOfCode": "def split_image(im, rows, cols):\n    image = Image.fromarray(im)\n    im_width, im_height = image.size\n    row_width = int(im_width / rows)\n    row_height = int(im_height / cols)\n    result = [] # list of tiles; smaller images\n    n = 0\n    for i in range(0, cols):\n        for j in range(0, rows):\n            box = (j * row_width, i * row_height, j * row_width +",
+        "detail": "src.QualityScalerUtilities",
+        "documentation": {}
+    },
+    {
+        "label": "reverse_split",
+        "kind": 2,
+        "importPath": "src.QualityScalerUtilities",
+        "description": "src.QualityScalerUtilities",
+        "peekOfCode": "def reverse_split(images_to_merge, rows, cols):\n    image1 = images_to_merge[0]\n    new_width = image1.size[0] * cols\n    new_height = image1.size[1] * rows\n    new_image = Image.new(image1.mode, (new_width, new_height))\n    for i in range(0, rows):\n        for j in range(0, cols):\n            image = images_to_merge[i * cols + j]\n            new_image.paste(image, (j * image.size[0], i * image.size[1]))\n    return new_image",
+        "detail": "src.QualityScalerUtilities",
+        "documentation": {}
+    },
+    {
+        "label": "WorkerSignals",
+        "kind": 6,
+        "importPath": "src.QWorker",
+        "description": "src.QWorker",
+        "peekOfCode": "class WorkerSignals(QtCore.QObject):\n    '''\n    Defines the signals available from a running worker thread.\n    Supported signals are:\n    finished\n        No data\n    error\n        tuple (exctype, value, traceback.format_exc() )\n    result\n        object data returned from processing, anything",
+        "detail": "src.QWorker",
+        "documentation": {}
+    },
+    {
+        "label": "QWorker",
+        "kind": 6,
+        "importPath": "src.QWorker",
+        "description": "src.QWorker",
+        "peekOfCode": "class QWorker(QtCore.QRunnable):\n    '''\n    Worker thread\n    Inherits from QRunnable to handler worker thread setup, signals and wrap-up.\n    :param callback: The function callback to run on this worker thread. Supplied args and\n                     kwargs will be passed through to the runner.\n    :type callback: function\n    :param args: Arguments to pass to the callback function\n    :param kwargs: Keywords to pass to the callback function\n    '''",
+        "detail": "src.QWorker",
+        "documentation": {}
+    },
+    {
+        "label": "Ui_ColorPicker",
+        "kind": 6,
+        "importPath": "src.Ui_ColorPicker",
+        "description": "src.Ui_ColorPicker",
+        "peekOfCode": "class Ui_ColorPicker(object):\n    def setupUi(self, ColorPicker):\n        ColorPicker.setObjectName(\"ColorPicker\")\n        ColorPicker.resize(360, 200)\n        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Policy.Preferred, QtWidgets.QSizePolicy.Policy.Preferred)\n        sizePolicy.setHorizontalStretch(0)\n        sizePolicy.setVerticalStretch(0)\n        sizePolicy.setHeightForWidth(ColorPicker.sizePolicy().hasHeightForWidth())\n        ColorPicker.setSizePolicy(sizePolicy)\n        ColorPicker.setMinimumSize(QtCore.QSize(0, 0))",
+        "detail": "src.Ui_ColorPicker",
+        "documentation": {}
+    },
+    {
+        "label": "WBsRGB",
+        "kind": 6,
+        "importPath": "src.WhiteBalance",
+        "description": "src.WhiteBalance",
+        "peekOfCode": "class WBsRGB:\n  def __init__(self, gamut_mapping=2):\n    self.features = np.load('models/whitebalance_features.npy')  # encoded features\n    self.mappingFuncs = np.load('models/whitebalance_mappingFuncs.npy')  # correct funcs\n    self.encoderWeights = np.load('models/whitebalance_encoderWeights.npy')  # PCA matrix\n    self.encoderBias = np.load('models/whitebalance_encoderBias.npy')  # PCA bias\n    self.K = 75  # K value for NN searching\n    self.sigma = 0.25  # fall-off factor for KNN blending\n    self.h = 60  # histogram bin width\n    # our results reported with gamut_mapping=2, however gamut_mapping=1",
+        "detail": "src.WhiteBalance",
+        "documentation": {}
+    },
+    {
+        "label": "normScaling",
+        "kind": 2,
+        "importPath": "src.WhiteBalance",
+        "description": "src.WhiteBalance",
+        "peekOfCode": "def normScaling(I, I_corr):\n  \"\"\" Scales each pixel based on original image energy. \"\"\"\n  norm_I_corr = np.sqrt(np.sum(np.power(I_corr, 2), 1))\n  inds = norm_I_corr != 0\n  norm_I_corr = norm_I_corr[inds]\n  norm_I = np.sqrt(np.sum(np.power(I[inds, :], 2), 1))\n  I_corr[inds, :] = I_corr[inds, :] / np.tile(\n    norm_I_corr[:, np.newaxis], 3) * np.tile(norm_I[:, np.newaxis], 3)\n  return I_corr\ndef kernelP(rgb):",
+        "detail": "src.WhiteBalance",
+        "documentation": {}
+    },
+    {
+        "label": "kernelP",
+        "kind": 2,
+        "importPath": "src.WhiteBalance",
+        "description": "src.WhiteBalance",
+        "peekOfCode": "def kernelP(rgb):\n  #Kernel function: kernel(r, g, b) -> (r,g,b,rg,rb,gb,r^2,g^2,b^2,rgb,1)\n  r, g, b = np.split(rgb, 3, axis=1)\n  return np.concatenate(\n    [rgb, r * g, r * b, g * b, rgb ** 2, r * g * b, np.ones_like(r)], axis=1)\ndef outOfGamutClipping(I):\n  \"\"\" Clips out-of-gamut pixels. \"\"\"\n  I[I > 1] = 1  # any pixel is higher than 1, clip it to 1\n  I[I < 0] = 0  # any pixel is below 0, clip it to 0\n  return I",
+        "detail": "src.WhiteBalance",
+        "documentation": {}
+    },
+    {
+        "label": "outOfGamutClipping",
+        "kind": 2,
+        "importPath": "src.WhiteBalance",
+        "description": "src.WhiteBalance",
+        "peekOfCode": "def outOfGamutClipping(I):\n  \"\"\" Clips out-of-gamut pixels. \"\"\"\n  I[I > 1] = 1  # any pixel is higher than 1, clip it to 1\n  I[I < 0] = 0  # any pixel is below 0, clip it to 0\n  return I\ndef im2double(im):\n  \"\"\" Returns a double image [0,1] of the uint8 im [0,255]. \"\"\"\n  return cv2.normalize(im.astype('float'), None, 0.0, 1.0, cv2.NORM_MINMAX)",
+        "detail": "src.WhiteBalance",
+        "documentation": {}
+    },
+    {
+        "label": "im2double",
+        "kind": 2,
+        "importPath": "src.WhiteBalance",
+        "description": "src.WhiteBalance",
+        "peekOfCode": "def im2double(im):\n  \"\"\" Returns a double image [0,1] of the uint8 im [0,255]. \"\"\"\n  return cv2.normalize(im.astype('float'), None, 0.0, 1.0, cv2.NORM_MINMAX)",
+        "detail": "src.WhiteBalance",
+        "documentation": {}
+    }
+]
